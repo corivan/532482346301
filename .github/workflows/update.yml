@@ -1,0 +1,134 @@
+name: Update work
+
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Discover task folders
+        id: set-matrix
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          root = Path('.')
+          include = []
+          for path in sorted(root.iterdir()):
+              if not path.is_dir():
+                  continue
+              py_files = [p for p in path.iterdir() if p.is_file() and p.suffix == '.py']
+              json_files = [p for p in path.iterdir() if p.is_file() and p.suffix == '.json']
+              if len(py_files) == 1 and len(json_files) == 1:
+                  include.append({'folder': path.name})
+
+          if not include:
+              raise SystemExit('No matching folders found')
+
+          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as fh:
+              fh.write(f"matrix={json.dumps({'include': include})}\n")
+          PY
+
+  run:
+    needs: prepare
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        shell: bash
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Run task script
+        shell: bash
+        run: |
+          set -euo pipefail
+          folder='${{ matrix.folder }}'
+          cd "$folder"
+          script=$(find . -maxdepth 1 -type f -name '*.py' | head -n 1)
+          if [ -z "$script" ]; then
+            echo "No Python file found in $folder"
+            exit 1
+          fi
+          echo "Running $script"
+          python "$script"
+
+      - name: Pull and rebase before commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          branch="${GITHUB_HEAD_REF:-${GITHUB_REF_NAME}}"
+          if [ -z "$branch" ]; then
+            branch='main'
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git fetch origin "$branch"
+          git checkout -B "$branch" "origin/$branch"
+
+          for attempt in 1 2 3 4; do
+            echo "Attempt $attempt to pull/rebase..."
+            if git pull --rebase --autostash origin "$branch"; then
+              break
+            fi
+            git rebase --abort || true
+            if [ "$attempt" -eq 4 ]; then
+              echo 'Rebase failed after multiple attempts' >&2
+              exit 1
+            fi
+            sleep 5
+          done
+
+      - name: Commit updated JSON
+        shell: bash
+        run: |
+          set -euo pipefail
+          folder='${{ matrix.folder }}'
+          cd "$folder"
+          json_file=$(find . -maxdepth 1 -type f -name '*.json' | head -n 1)
+          if [ -z "$json_file" ]; then
+            echo "No JSON file found in $folder"
+            exit 1
+          fi
+
+          git add "$json_file"
+          if git diff --cached --quiet; then
+            echo "No changes detected for $json_file"
+            exit 0
+          fi
+
+          git commit -m "Update ${folder} work result"
+
+          branch="${GITHUB_HEAD_REF:-${GITHUB_REF_NAME}}"
+          if [ -z "$branch" ]; then
+            branch='main'
+          fi
+
+          git push origin "HEAD:${branch}"

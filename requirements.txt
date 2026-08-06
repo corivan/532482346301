@@ -1,0 +1,7 @@
+func-timeout
+prettytable
+pypinyin
+pytz
+r-useragent
+requests
+tqdm
