@@ -66,18 +66,22 @@ jobs:
           fi
 
       - name: Run task script
+        id: run-task
         shell: bash
         run: |
-          set -euo pipefail
+          set -uo pipefail
           folder='${{ matrix.folder }}'
           cd "$folder"
           script=$(find . -maxdepth 1 -type f -name '*.py' | head -n 1)
           if [ -z "$script" ]; then
             echo "No Python file found in $folder"
-            exit 1
+            echo "task_failed=true" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
           echo "Running $script"
-          python "$script"
+          if ! python "$script"; then
+            echo "task_failed=true" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Pull and rebase before commit
         shell: bash
@@ -132,3 +136,10 @@ jobs:
           fi
 
           git push origin "HEAD:${branch}"
+
+      - name: Report task failure
+        if: steps.run-task.outputs.task_failed == 'true'
+        shell: bash
+        run: |
+          echo "Task script failed for ${{ matrix.folder }}, but JSON was committed"
+          exit 1
