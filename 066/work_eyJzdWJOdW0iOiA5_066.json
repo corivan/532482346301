@@ -13955,7 +13955,2637 @@
             101
         ]
     },
-    "processedAuthCodes": [],
-    "otherProductInstance": {},
-    "requestCount": 0
+    "processedAuthCodes": [
+        "3457464-govevent",
+        "xifxlib",
+        "3472009-govevent",
+        "3472010-govevent",
+        "3472011-govevent",
+        "3472012-govevent",
+        "3472053-govevent",
+        "3472929-govevent",
+        "shtqlib",
+        "locqlib",
+        "3468908-govevent",
+        "jzhsxtsg",
+        "gxlzx",
+        "npqlib",
+        "slxwhg",
+        "yzqtushuguan",
+        "3469576-govevent",
+        "tsswhg",
+        "scjnqwhg",
+        "libfhz",
+        "3469379-govevent",
+        "tzsmxtsg",
+        "jzsyxlib",
+        "zaqtsg",
+        "hwalib",
+        "xfqt",
+        "gcllib",
+        "scqt",
+        "tpqlib",
+        "1103823-govevent",
+        "xhqlib",
+        "taihqtsg",
+        "qhqlib",
+        "msqtsg",
+        "lyclib",
+        "byqqtsg",
+        "zwqlib",
+        "gtqtsg",
+        "3469689-govevent",
+        "lbqtsg",
+        "yamslib",
+        "tlxtushuguan",
+        "linghqtsg",
+        "dzqt",
+        "qtxswhg",
+        "gzs",
+        "beizslib",
+        "ylxwhg",
+        "psqt",
+        "xhqt",
+        "3468699-govevent",
+        "3469983-govevent",
+        "3469013-govevent",
+        "3467921-govevent",
+        "3467772-govevent",
+        "3468776-govevent",
+        "ytswhg",
+        "bmacl",
+        "3439687-govevent",
+        "rdl",
+        "jiulxlib",
+        "dlchxlib",
+        "smxqyg",
+        "whsgjqwhg",
+        "3469124-govevent",
+        "gtxwhg",
+        "hkswhg",
+        "tzqwhg",
+        "3468587-govevent",
+        "3470007-govevent",
+        "3470248-govevent",
+        "3439739-govevent",
+        "3439683-govevent",
+        "3476675-govevent",
+        "3467844-govevent",
+        "3468297-govevent",
+        "xlhtswhg",
+        "3468561-govevent",
+        "3469186-govevent",
+        "3469450-govevent",
+        "3468746-govevent",
+        "zzwhg",
+        "3468945-govevent",
+        "3467912-govevent",
+        "3469417-govevent",
+        "fzlcxwhg",
+        "3470139-govevent",
+        "1090278-govevent",
+        "3468033-govevent",
+        "nlslizy",
+        "3468644-govevent",
+        "3470513-govevent",
+        "3469961-govevent",
+        "3469015-govevent",
+        "3469703-govevent",
+        "xbxwhg",
+        "3468246-govevent",
+        "3468115-govevent",
+        "syzrxy",
+        "3469707-govevent",
+        "jyswhg",
+        "jadx",
+        "3469980-govevent",
+        "libfyz",
+        "3468142-govevent",
+        "ysslib",
+        "dzqwhg",
+        "hsqsrtsg",
+        "1090825-govevent",
+        "3468061-govevent",
+        "mxwhg",
+        "1089285-govevent",
+        "lzzzx",
+        "3468656-govevent",
+        "jzxwhg",
+        "1092990-govevent",
+        "nxtxxwhg",
+        "3469419-govevent",
+        "3468034-govevent",
+        "sjzqyg",
+        "1426",
+        "3469453-govevent",
+        "dlxwhg",
+        "mtg",
+        "lfqzysg",
+        "1090582-govevent",
+        "3470327-govevent",
+        "hnwzxwhg",
+        "sdxwhg",
+        "3469048-govevent",
+        "3468936-govevent",
+        "1090821-govevent",
+        "1090273-govevent",
+        "1090286-govevent",
+        "snqwhg",
+        "1219690-govevent",
+        "1224441-govevent",
+        "edqwhg",
+        "3476701-govevent",
+        "3476703-govevent",
+        "3476702-govevent",
+        "dlgbdsdx",
+        "3439729-govevent",
+        "lysjxqtsg",
+        "atslib",
+        "hmacl",
+        "aktlib",
+        "klmyqtsg",
+        "gsxlib",
+        "ahqclib"
+    ],
+    "otherProductInstance": {
+        "46525": {
+            "orgName": "",
+            "productId": 16,
+            "organizationAuthCode": "3457464-govevent",
+            "organizationUserId": 6301506
+        },
+        "46530": {
+            "orgName": "西丰县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "xifxlib",
+            "organizationUserId": 6301503
+        },
+        "46531": {
+            "orgName": "哈尔滨师范大学",
+            "productId": 16,
+            "organizationAuthCode": "3472009-govevent",
+            "organizationUserId": 6301507
+        },
+        "46532": {
+            "orgName": "哈尔滨商业大学",
+            "productId": 16,
+            "organizationAuthCode": "3472010-govevent",
+            "organizationUserId": 6301508
+        },
+        "46533": {
+            "orgName": "黑龙江中医药大学",
+            "productId": 16,
+            "organizationAuthCode": "3472011-govevent",
+            "organizationUserId": 6301509
+        },
+        "46534": {
+            "orgName": "哈尔滨铁道职业技术学院",
+            "productId": 16,
+            "organizationAuthCode": "3472012-govevent",
+            "organizationUserId": 6301510
+        },
+        "71739": {
+            "orgName": "辽宁工程技术大学",
+            "productId": 5,
+            "organizationAuthCode": "3472053-govevent",
+            "organizationUserId": 6301511
+        },
+        "46535": {
+            "orgName": "辽宁工程技术大学",
+            "productId": 16,
+            "organizationAuthCode": "3472053-govevent",
+            "organizationUserId": 6301511
+        },
+        "71737": {
+            "orgName": "辽宁工程技术大学",
+            "productId": 66,
+            "organizationAuthCode": "3472053-govevent",
+            "organizationUserId": 6301511
+        },
+        "71738": {
+            "orgName": "辽宁工程技术大学",
+            "productId": 67,
+            "organizationAuthCode": "3472053-govevent",
+            "organizationUserId": 6301511
+        },
+        "46536": {
+            "orgName": "",
+            "productId": 16,
+            "organizationAuthCode": "3472929-govevent",
+            "organizationUserId": 6301512
+        },
+        "46538": {
+            "orgName": "双塔区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "shtqlib",
+            "organizationUserId": 6301513
+        },
+        "46539": {
+            "orgName": "龙城区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "locqlib",
+            "organizationUserId": 6301514
+        },
+        "46542": {
+            "orgName": "进贤县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468908-govevent",
+            "organizationUserId": 6301516
+        },
+        "47388": {
+            "orgName": "黑山县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "jzhsxtsg",
+            "organizationUserId": 6301515
+        },
+        "47389": {
+            "orgName": "黑山县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "jzhsxtsg",
+            "organizationUserId": 6301515
+        },
+        "72256": {
+            "orgName": "黑山县图书馆",
+            "productId": 8,
+            "organizationAuthCode": "jzhsxtsg",
+            "organizationUserId": 6301515
+        },
+        "47390": {
+            "orgName": "黑山县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "jzhsxtsg",
+            "organizationUserId": 6301515
+        },
+        "47391": {
+            "orgName": "黑山县图书馆",
+            "productId": 13,
+            "organizationAuthCode": "jzhsxtsg",
+            "organizationUserId": 6301515
+        },
+        "47392": {
+            "orgName": "黑山县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "jzhsxtsg",
+            "organizationUserId": 6301515
+        },
+        "47393": {
+            "orgName": "黑山县图书馆",
+            "productId": 17,
+            "organizationAuthCode": "jzhsxtsg",
+            "organizationUserId": 6301515
+        },
+        "46543": {
+            "orgName": "黑山县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "jzhsxtsg",
+            "organizationUserId": 6301515
+        },
+        "71823": {
+            "orgName": "黑山县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "jzhsxtsg",
+            "organizationUserId": 6301515
+        },
+        "71824": {
+            "orgName": "黑山县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "jzhsxtsg",
+            "organizationUserId": 6301515
+        },
+        "54790": {
+            "orgName": "广西鹿寨县文化馆",
+            "productId": 5,
+            "organizationAuthCode": "gxlzx",
+            "organizationUserId": 6301517
+        },
+        "46544": {
+            "orgName": "广西鹿寨县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "gxlzx",
+            "organizationUserId": 6301517
+        },
+        "54791": {
+            "orgName": "广西鹿寨县文化馆",
+            "productId": 38,
+            "organizationAuthCode": "gxlzx",
+            "organizationUserId": 6301517
+        },
+        "54792": {
+            "orgName": "广西鹿寨县文化馆",
+            "productId": 39,
+            "organizationAuthCode": "gxlzx",
+            "organizationUserId": 6301517
+        },
+        "54793": {
+            "orgName": "广西鹿寨县文化馆",
+            "productId": 61,
+            "organizationAuthCode": "gxlzx",
+            "organizationUserId": 6301517
+        },
+        "46546": {
+            "orgName": "南票区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "npqlib",
+            "organizationUserId": 6301518
+        },
+        "58805": {
+            "orgName": "广西上林县文化馆",
+            "productId": 5,
+            "organizationAuthCode": "slxwhg",
+            "organizationUserId": 6301519
+        },
+        "46561": {
+            "orgName": "广西上林县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "slxwhg",
+            "organizationUserId": 6301519
+        },
+        "58807": {
+            "orgName": "广西上林县文化馆",
+            "productId": 39,
+            "organizationAuthCode": "slxwhg",
+            "organizationUserId": 6301519
+        },
+        "58806": {
+            "orgName": "广西上林县文化馆",
+            "productId": 61,
+            "organizationAuthCode": "slxwhg",
+            "organizationUserId": 6301519
+        },
+        "72618": {
+            "orgName": "广西上林县文化馆",
+            "productId": 66,
+            "organizationAuthCode": "slxwhg",
+            "organizationUserId": 6301519
+        },
+        "72617": {
+            "orgName": "广西上林县文化馆",
+            "productId": 67,
+            "organizationAuthCode": "slxwhg",
+            "organizationUserId": 6301519
+        },
+        "46567": {
+            "orgName": "银州区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "yzqtushuguan",
+            "organizationUserId": 6301521
+        },
+        "46569": {
+            "orgName": "陕西省平利县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469576-govevent",
+            "organizationUserId": 6301522
+        },
+        "73969": {
+            "orgName": "陕西省平利县文化馆",
+            "productId": 66,
+            "organizationAuthCode": "3469576-govevent",
+            "organizationUserId": 6301522
+        },
+        "48541": {
+            "orgName": "广东省台山市文化馆",
+            "productId": 5,
+            "organizationAuthCode": "tsswhg",
+            "organizationUserId": 6301523
+        },
+        "46570": {
+            "orgName": "广东省台山市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "tsswhg",
+            "organizationUserId": 6301523
+        },
+        "48540": {
+            "orgName": "广东省台山市文化馆",
+            "productId": 39,
+            "organizationAuthCode": "tsswhg",
+            "organizationUserId": 6301523
+        },
+        "58011": {
+            "orgName": "广东省台山市文化馆",
+            "productId": 61,
+            "organizationAuthCode": "tsswhg",
+            "organizationUserId": 6301523
+        },
+        "46584": {
+            "orgName": "四川省成都市金牛区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "scjnqwhg",
+            "organizationUserId": 6301524
+        },
+        "77824": {
+            "orgName": "四川省成都市金牛区文化馆",
+            "productId": 66,
+            "organizationAuthCode": "scjnqwhg",
+            "organizationUserId": 6301524
+        },
+        "46593": {
+            "orgName": "海州区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "libfhz",
+            "organizationUserId": 6301525
+        },
+        "54002": {
+            "orgName": "四川省雅安市名山区文化馆",
+            "productId": 5,
+            "organizationAuthCode": "3469379-govevent",
+            "organizationUserId": 6301526
+        },
+        "46594": {
+            "orgName": "四川省雅安市名山区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469379-govevent",
+            "organizationUserId": 6301526
+        },
+        "54003": {
+            "orgName": "四川省雅安市名山区文化馆",
+            "productId": 61,
+            "organizationAuthCode": "3469379-govevent",
+            "organizationUserId": 6301526
+        },
+        "55250": {
+            "orgName": "三门县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "48713": {
+            "orgName": "三门县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "49122": {
+            "orgName": "三门县图书馆",
+            "productId": 8,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "48437": {
+            "orgName": "三门县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "48573": {
+            "orgName": "三门县图书馆",
+            "productId": 12,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "46596": {
+            "orgName": "三门县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "48518": {
+            "orgName": "三门县图书馆",
+            "productId": 20,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "50310": {
+            "orgName": "三门县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "50702": {
+            "orgName": "三门县图书馆",
+            "productId": 24,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "48519": {
+            "orgName": "三门县图书馆",
+            "productId": 43,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "51792": {
+            "orgName": "三门县图书馆",
+            "productId": 59,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "55252": {
+            "orgName": "三门县图书馆",
+            "productId": 61,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "63358": {
+            "orgName": "三门县图书馆",
+            "productId": 62,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "65451": {
+            "orgName": "三门县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "61684": {
+            "orgName": "三门县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "tzsmxtsg",
+            "organizationUserId": 6301527
+        },
+        "46598": {
+            "orgName": "锦州市义县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "jzsyxlib",
+            "organizationUserId": 6301528
+        },
+        "52490": {
+            "orgName": "振安区图书馆",
+            "productId": 1,
+            "organizationAuthCode": "zaqtsg",
+            "organizationUserId": 6301529
+        },
+        "59334": {
+            "orgName": "振安区图书馆",
+            "productId": 5,
+            "organizationAuthCode": "zaqtsg",
+            "organizationUserId": 6301529
+        },
+        "46599": {
+            "orgName": "振安区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "zaqtsg",
+            "organizationUserId": 6301529
+        },
+        "71704": {
+            "orgName": "振安区图书馆",
+            "productId": 66,
+            "organizationAuthCode": "zaqtsg",
+            "organizationUserId": 6301529
+        },
+        "71705": {
+            "orgName": "振安区图书馆",
+            "productId": 67,
+            "organizationAuthCode": "zaqtsg",
+            "organizationUserId": 6301529
+        },
+        "46600": {
+            "orgName": "宏伟区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "hwalib",
+            "organizationUserId": 6301530
+        },
+        "46602": {
+            "orgName": "新抚区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "xfqt",
+            "organizationUserId": 6301532
+        },
+        "46604": {
+            "orgName": "弓长岭区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "gcllib",
+            "organizationUserId": 6301534
+        },
+        "46608": {
+            "orgName": "顺城区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "scqt",
+            "organizationUserId": 6301536
+        },
+        "46609": {
+            "orgName": "太平区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "tpqlib",
+            "organizationUserId": 6301537
+        },
+        "46611": {
+            "orgName": "中国空间技术研究院（中国航天科技集团公司五院）",
+            "productId": 16,
+            "organizationAuthCode": "1103823-govevent",
+            "organizationUserId": 6301540
+        },
+        "46612": {
+            "orgName": "溪湖区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "xhqlib",
+            "organizationUserId": 6301539
+        },
+        "46613": {
+            "orgName": "太和区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "taihqtsg",
+            "organizationUserId": 6301538
+        },
+        "68191": {
+            "orgName": "清河门区图书馆",
+            "productId": 1,
+            "organizationAuthCode": "qhqlib",
+            "organizationUserId": 6301541
+        },
+        "46614": {
+            "orgName": "清河门区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "qhqlib",
+            "organizationUserId": 6301541
+        },
+        "46617": {
+            "orgName": "明山区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "msqtsg",
+            "organizationUserId": 6301543
+        },
+        "48075": {
+            "orgName": "辽阳县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "lyclib",
+            "organizationUserId": 6301544
+        },
+        "64826": {
+            "orgName": "辽阳县图书馆",
+            "productId": 3,
+            "organizationAuthCode": "lyclib",
+            "organizationUserId": 6301544
+        },
+        "48083": {
+            "orgName": "辽阳县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "lyclib",
+            "organizationUserId": 6301544
+        },
+        "48079": {
+            "orgName": "辽阳县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "lyclib",
+            "organizationUserId": 6301544
+        },
+        "48078": {
+            "orgName": "辽阳县图书馆",
+            "productId": 12,
+            "organizationAuthCode": "lyclib",
+            "organizationUserId": 6301544
+        },
+        "50354": {
+            "orgName": "辽阳县图书馆",
+            "productId": 13,
+            "organizationAuthCode": "lyclib",
+            "organizationUserId": 6301544
+        },
+        "50355": {
+            "orgName": "辽阳县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "lyclib",
+            "organizationUserId": 6301544
+        },
+        "48077": {
+            "orgName": "辽阳县图书馆",
+            "productId": 17,
+            "organizationAuthCode": "lyclib",
+            "organizationUserId": 6301544
+        },
+        "46618": {
+            "orgName": "辽阳县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "lyclib",
+            "organizationUserId": 6301544
+        },
+        "48080": {
+            "orgName": "辽阳县图书馆",
+            "productId": 24,
+            "organizationAuthCode": "lyclib",
+            "organizationUserId": 6301544
+        },
+        "71860": {
+            "orgName": "辽阳县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "lyclib",
+            "organizationUserId": 6301544
+        },
+        "71861": {
+            "orgName": "辽阳县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "lyclib",
+            "organizationUserId": 6301544
+        },
+        "46620": {
+            "orgName": "鲅鱼圈区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "byqqtsg",
+            "organizationUserId": 6301546
+        },
+        "46621": {
+            "orgName": "彰武县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "zwqlib",
+            "organizationUserId": 6301547
+        },
+        "46623": {
+            "orgName": "古塔区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "gtqtsg",
+            "organizationUserId": 6301548
+        },
+        "46625": {
+            "orgName": "河北省广宗县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469689-govevent",
+            "organizationUserId": 6301552
+        },
+        "67801": {
+            "orgName": "老边区图书馆",
+            "productId": 5,
+            "organizationAuthCode": "lbqtsg",
+            "organizationUserId": 6301551
+        },
+        "46626": {
+            "orgName": "老边区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "lbqtsg",
+            "organizationUserId": 6301551
+        },
+        "55843": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 1,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "48397": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 5,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "46627": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 16,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "83408": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 19,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "55844": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 61,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "59492": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 62,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "70517": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 66,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "61933": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 67,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "81268": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 89,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "81269": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 90,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "81270": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 91,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "81271": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 92,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "81272": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 93,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "82489": {
+            "orgName": "雅安市名山区图书馆",
+            "productId": 98,
+            "organizationAuthCode": "yamslib",
+            "organizationUserId": 6301555
+        },
+        "46628": {
+            "orgName": "铁岭县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "tlxtushuguan",
+            "organizationUserId": 6301553
+        },
+        "46632": {
+            "orgName": "凌河区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "linghqtsg",
+            "organizationUserId": 6301556
+        },
+        "46633": {
+            "orgName": "东洲区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "dzqt",
+            "organizationUserId": 6301558
+        },
+        "48640": {
+            "orgName": "宁夏青铜峡市文化馆",
+            "productId": 1,
+            "organizationAuthCode": "qtxswhg",
+            "organizationUserId": 6301559
+        },
+        "48637": {
+            "orgName": "宁夏青铜峡市文化馆",
+            "productId": 5,
+            "organizationAuthCode": "qtxswhg",
+            "organizationUserId": 6301559
+        },
+        "48638": {
+            "orgName": "宁夏青铜峡市文化馆",
+            "productId": 11,
+            "organizationAuthCode": "qtxswhg",
+            "organizationUserId": 6301559
+        },
+        "46635": {
+            "orgName": "宁夏青铜峡市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "qtxswhg",
+            "organizationUserId": 6301559
+        },
+        "48639": {
+            "orgName": "宁夏青铜峡市文化馆",
+            "productId": 21,
+            "organizationAuthCode": "qtxswhg",
+            "organizationUserId": 6301559
+        },
+        "48643": {
+            "orgName": "宁夏青铜峡市文化馆",
+            "productId": 39,
+            "organizationAuthCode": "qtxswhg",
+            "organizationUserId": 6301559
+        },
+        "85736": {
+            "orgName": "宁夏青铜峡市文化馆",
+            "productId": 66,
+            "organizationAuthCode": "qtxswhg",
+            "organizationUserId": 6301559
+        },
+        "46638": {
+            "orgName": "盖州市图书馆",
+            "productId": 21,
+            "organizationAuthCode": "gzs",
+            "organizationUserId": 6301560
+        },
+        "51563": {
+            "orgName": "北镇市图书馆",
+            "productId": 1,
+            "organizationAuthCode": "beizslib",
+            "organizationUserId": 6301561
+        },
+        "51564": {
+            "orgName": "北镇市图书馆",
+            "productId": 5,
+            "organizationAuthCode": "beizslib",
+            "organizationUserId": 6301561
+        },
+        "51565": {
+            "orgName": "北镇市图书馆",
+            "productId": 11,
+            "organizationAuthCode": "beizslib",
+            "organizationUserId": 6301561
+        },
+        "51567": {
+            "orgName": "北镇市图书馆",
+            "productId": 13,
+            "organizationAuthCode": "beizslib",
+            "organizationUserId": 6301561
+        },
+        "51568": {
+            "orgName": "北镇市图书馆",
+            "productId": 16,
+            "organizationAuthCode": "beizslib",
+            "organizationUserId": 6301561
+        },
+        "51566": {
+            "orgName": "北镇市图书馆",
+            "productId": 17,
+            "organizationAuthCode": "beizslib",
+            "organizationUserId": 6301561
+        },
+        "46639": {
+            "orgName": "北镇市图书馆",
+            "productId": 21,
+            "organizationAuthCode": "beizslib",
+            "organizationUserId": 6301561
+        },
+        "68340": {
+            "orgName": "北镇市图书馆",
+            "productId": 32,
+            "organizationAuthCode": "beizslib",
+            "organizationUserId": 6301561
+        },
+        "69381": {
+            "orgName": "北镇市图书馆",
+            "productId": 66,
+            "organizationAuthCode": "beizslib",
+            "organizationUserId": 6301561
+        },
+        "69382": {
+            "orgName": "北镇市图书馆",
+            "productId": 67,
+            "organizationAuthCode": "beizslib",
+            "organizationUserId": 6301561
+        },
+        "46640": {
+            "orgName": "宁夏永宁县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "ylxwhg",
+            "organizationUserId": 6301562
+        },
+        "48642": {
+            "orgName": "宁夏永宁县文化馆",
+            "productId": 39,
+            "organizationAuthCode": "ylxwhg",
+            "organizationUserId": 6301562
+        },
+        "46641": {
+            "orgName": "平山区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "psqt",
+            "organizationUserId": 6301564
+        },
+        "46645": {
+            "orgName": "细河区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "xhqt",
+            "organizationUserId": 6301565
+        },
+        "46655": {
+            "orgName": "黑龙江省齐齐哈尔市依安县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468699-govevent",
+            "organizationUserId": 6301566
+        },
+        "46660": {
+            "orgName": "山东省济南市历城区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469983-govevent",
+            "organizationUserId": 6301567
+        },
+        "46666": {
+            "orgName": "山东省阳信县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469013-govevent",
+            "organizationUserId": 6301568
+        },
+        "56207": {
+            "orgName": "东营市文化馆",
+            "productId": 5,
+            "organizationAuthCode": "3467921-govevent",
+            "organizationUserId": 6301569
+        },
+        "46667": {
+            "orgName": "东营市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3467921-govevent",
+            "organizationUserId": 6301569
+        },
+        "56208": {
+            "orgName": "东营市文化馆",
+            "productId": 61,
+            "organizationAuthCode": "3467921-govevent",
+            "organizationUserId": 6301569
+        },
+        "46669": {
+            "orgName": "安徽省和县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3467772-govevent",
+            "organizationUserId": 6301570
+        },
+        "46671": {
+            "orgName": "浙江省杭州市拱墅区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468776-govevent",
+            "organizationUserId": 6301571
+        },
+        "46674": {
+            "orgName": "浙江省余姚市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "ytswhg",
+            "organizationUserId": 6301572
+        },
+        "48535": {
+            "orgName": "浙江省余姚市文化馆",
+            "productId": 39,
+            "organizationAuthCode": "ytswhg",
+            "organizationUserId": 6301572
+        },
+        "71703": {
+            "orgName": "本溪满族自治县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "bmacl",
+            "organizationUserId": 6301573
+        },
+        "46675": {
+            "orgName": "本溪满族自治县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "bmacl",
+            "organizationUserId": 6301573
+        },
+        "71701": {
+            "orgName": "本溪满族自治县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "bmacl",
+            "organizationUserId": 6301573
+        },
+        "71702": {
+            "orgName": "本溪满族自治县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "bmacl",
+            "organizationUserId": 6301573
+        },
+        "46676": {
+            "orgName": "兴安盟文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3439687-govevent",
+            "organizationUserId": 6301574
+        },
+        "46681": {
+            "orgName": "振兴区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "rdl",
+            "organizationUserId": 6301575
+        },
+        "46688": {
+            "orgName": "甘孜州九龙县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "jiulxlib",
+            "organizationUserId": 6301576
+        },
+        "59332": {
+            "orgName": "长海县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "dlchxlib",
+            "organizationUserId": 6301577
+        },
+        "46692": {
+            "orgName": "长海县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "dlchxlib",
+            "organizationUserId": 6301577
+        },
+        "69377": {
+            "orgName": "长海县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "dlchxlib",
+            "organizationUserId": 6301577
+        },
+        "69378": {
+            "orgName": "长海县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "dlchxlib",
+            "organizationUserId": 6301577
+        },
+        "56451": {
+            "orgName": "河南省三门峡市群众艺术馆",
+            "productId": 1,
+            "organizationAuthCode": "smxqyg",
+            "organizationUserId": 6301578
+        },
+        "54420": {
+            "orgName": "河南省三门峡市群众艺术馆",
+            "productId": 5,
+            "organizationAuthCode": "smxqyg",
+            "organizationUserId": 6301578
+        },
+        "46694": {
+            "orgName": "河南省三门峡市群众艺术馆",
+            "productId": 16,
+            "organizationAuthCode": "smxqyg",
+            "organizationUserId": 6301578
+        },
+        "56453": {
+            "orgName": "河南省三门峡市群众艺术馆",
+            "productId": 38,
+            "organizationAuthCode": "smxqyg",
+            "organizationUserId": 6301578
+        },
+        "56454": {
+            "orgName": "河南省三门峡市群众艺术馆",
+            "productId": 39,
+            "organizationAuthCode": "smxqyg",
+            "organizationUserId": 6301578
+        },
+        "54421": {
+            "orgName": "河南省三门峡市群众艺术馆",
+            "productId": 61,
+            "organizationAuthCode": "smxqyg",
+            "organizationUserId": 6301578
+        },
+        "57720": {
+            "orgName": "安徽省芜湖市弋江区文化馆",
+            "productId": 1,
+            "organizationAuthCode": "whsgjqwhg",
+            "organizationUserId": 6301579
+        },
+        "57721": {
+            "orgName": "安徽省芜湖市弋江区文化馆",
+            "productId": 5,
+            "organizationAuthCode": "whsgjqwhg",
+            "organizationUserId": 6301579
+        },
+        "46696": {
+            "orgName": "安徽省芜湖市弋江区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "whsgjqwhg",
+            "organizationUserId": 6301579
+        },
+        "57725": {
+            "orgName": "安徽省芜湖市弋江区文化馆",
+            "productId": 38,
+            "organizationAuthCode": "whsgjqwhg",
+            "organizationUserId": 6301579
+        },
+        "57726": {
+            "orgName": "安徽省芜湖市弋江区文化馆",
+            "productId": 39,
+            "organizationAuthCode": "whsgjqwhg",
+            "organizationUserId": 6301579
+        },
+        "57729": {
+            "orgName": "安徽省芜湖市弋江区文化馆",
+            "productId": 61,
+            "organizationAuthCode": "whsgjqwhg",
+            "organizationUserId": 6301579
+        },
+        "46698": {
+            "orgName": "湖北省十堰市茅箭区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469124-govevent",
+            "organizationUserId": 6301580
+        },
+        "68312": {
+            "orgName": "山东省高唐县文化馆",
+            "productId": 1,
+            "organizationAuthCode": "gtxwhg",
+            "organizationUserId": 6301581
+        },
+        "68313": {
+            "orgName": "山东省高唐县文化馆",
+            "productId": 5,
+            "organizationAuthCode": "gtxwhg",
+            "organizationUserId": 6301581
+        },
+        "46701": {
+            "orgName": "山东省高唐县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "gtxwhg",
+            "organizationUserId": 6301581
+        },
+        "68314": {
+            "orgName": "山东省高唐县文化馆",
+            "productId": 38,
+            "organizationAuthCode": "gtxwhg",
+            "organizationUserId": 6301581
+        },
+        "68315": {
+            "orgName": "山东省高唐县文化馆",
+            "productId": 39,
+            "organizationAuthCode": "gtxwhg",
+            "organizationUserId": 6301581
+        },
+        "68316": {
+            "orgName": "山东省高唐县文化馆",
+            "productId": 61,
+            "organizationAuthCode": "gtxwhg",
+            "organizationUserId": 6301581
+        },
+        "56952": {
+            "orgName": "山东省东营市河口区文化馆",
+            "productId": 5,
+            "organizationAuthCode": "hkswhg",
+            "organizationUserId": 6301582
+        },
+        "46704": {
+            "orgName": "山东省东营市河口区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "hkswhg",
+            "organizationUserId": 6301582
+        },
+        "50765": {
+            "orgName": "山东省东营市河口区文化馆",
+            "productId": 39,
+            "organizationAuthCode": "hkswhg",
+            "organizationUserId": 6301582
+        },
+        "59901": {
+            "orgName": "山东省东营市河口区文化馆",
+            "productId": 59,
+            "organizationAuthCode": "hkswhg",
+            "organizationUserId": 6301582
+        },
+        "56954": {
+            "orgName": "山东省东营市河口区文化馆",
+            "productId": 61,
+            "organizationAuthCode": "hkswhg",
+            "organizationUserId": 6301582
+        },
+        "56716": {
+            "orgName": "江苏省南通市通州区文化馆",
+            "productId": 5,
+            "organizationAuthCode": "tzqwhg",
+            "organizationUserId": 6301583
+        },
+        "60218": {
+            "orgName": "江苏省南通市通州区文化馆",
+            "productId": 11,
+            "organizationAuthCode": "tzqwhg",
+            "organizationUserId": 6301583
+        },
+        "46706": {
+            "orgName": "江苏省南通市通州区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "tzqwhg",
+            "organizationUserId": 6301583
+        },
+        "48862": {
+            "orgName": "江苏省南通市通州区文化馆",
+            "productId": 21,
+            "organizationAuthCode": "tzqwhg",
+            "organizationUserId": 6301583
+        },
+        "50059": {
+            "orgName": "江苏省南通市通州区文化馆",
+            "productId": 38,
+            "organizationAuthCode": "tzqwhg",
+            "organizationUserId": 6301583
+        },
+        "49989": {
+            "orgName": "江苏省南通市通州区文化馆",
+            "productId": 39,
+            "organizationAuthCode": "tzqwhg",
+            "organizationUserId": 6301583
+        },
+        "49990": {
+            "orgName": "江苏省南通市通州区文化馆",
+            "productId": 43,
+            "organizationAuthCode": "tzqwhg",
+            "organizationUserId": 6301583
+        },
+        "51863": {
+            "orgName": "江苏省南通市通州区文化馆",
+            "productId": 59,
+            "organizationAuthCode": "tzqwhg",
+            "organizationUserId": 6301583
+        },
+        "56717": {
+            "orgName": "江苏省南通市通州区文化馆",
+            "productId": 61,
+            "organizationAuthCode": "tzqwhg",
+            "organizationUserId": 6301583
+        },
+        "73804": {
+            "orgName": "江苏省南通市通州区文化馆",
+            "productId": 66,
+            "organizationAuthCode": "tzqwhg",
+            "organizationUserId": 6301583
+        },
+        "73962": {
+            "orgName": "江苏省南通市通州区文化馆",
+            "productId": 83,
+            "organizationAuthCode": "tzqwhg",
+            "organizationUserId": 6301583
+        },
+        "46707": {
+            "orgName": "山西省文水县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468587-govevent",
+            "organizationUserId": 6301584
+        },
+        "46708": {
+            "orgName": "山东省无棣县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3470007-govevent",
+            "organizationUserId": 6301585
+        },
+        "46711": {
+            "orgName": "重庆市酉阳土家族苗族自治县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3470248-govevent",
+            "organizationUserId": 6301586
+        },
+        "46720": {
+            "orgName": "阿拉善盟文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3439739-govevent",
+            "organizationUserId": 6301587
+        },
+        "46724": {
+            "orgName": "新疆生产建设兵团群众艺术馆",
+            "productId": 16,
+            "organizationAuthCode": "3439683-govevent",
+            "organizationUserId": 6301588
+        },
+        "46725": {
+            "orgName": "中共灵武市委宣传部",
+            "productId": 16,
+            "organizationAuthCode": "3476675-govevent",
+            "organizationUserId": 6301589
+        },
+        "46726": {
+            "orgName": "浔阳区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3467844-govevent",
+            "organizationUserId": 6301590
+        },
+        "46728": {
+            "orgName": "四川省渠县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468297-govevent",
+            "organizationUserId": 6301591
+        },
+        "46732": {
+            "orgName": "内蒙古锡林郭勒盟二连浩特市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "xlhtswhg",
+            "organizationUserId": 6301592
+        },
+        "48292": {
+            "orgName": "内蒙古锡林郭勒盟二连浩特市文化馆",
+            "productId": 39,
+            "organizationAuthCode": "xlhtswhg",
+            "organizationUserId": 6301592
+        },
+        "46735": {
+            "orgName": "山西省朔州市朔城区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468561-govevent",
+            "organizationUserId": 6301593
+        },
+        "78667": {
+            "orgName": "山西省朔州市朔城区文化馆",
+            "productId": 66,
+            "organizationAuthCode": "3468561-govevent",
+            "organizationUserId": 6301593
+        },
+        "46738": {
+            "orgName": "湖南省新邵县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469186-govevent",
+            "organizationUserId": 6301594
+        },
+        "46744": {
+            "orgName": "贵州省纳雍县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469450-govevent",
+            "organizationUserId": 6301595
+        },
+        "46745": {
+            "orgName": "江苏省常州市天宁区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468746-govevent",
+            "organizationUserId": 6301596
+        },
+        "55905": {
+            "orgName": "枣庄市文化馆",
+            "productId": 1,
+            "organizationAuthCode": "zzwhg",
+            "organizationUserId": 6301597
+        },
+        "54494": {
+            "orgName": "枣庄市文化馆",
+            "productId": 5,
+            "organizationAuthCode": "zzwhg",
+            "organizationUserId": 6301597
+        },
+        "46747": {
+            "orgName": "枣庄市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "zzwhg",
+            "organizationUserId": 6301597
+        },
+        "55906": {
+            "orgName": "枣庄市文化馆",
+            "productId": 38,
+            "organizationAuthCode": "zzwhg",
+            "organizationUserId": 6301597
+        },
+        "50222": {
+            "orgName": "枣庄市文化馆",
+            "productId": 39,
+            "organizationAuthCode": "zzwhg",
+            "organizationUserId": 6301597
+        },
+        "54495": {
+            "orgName": "枣庄市文化馆",
+            "productId": 61,
+            "organizationAuthCode": "zzwhg",
+            "organizationUserId": 6301597
+        },
+        "76630": {
+            "orgName": "枣庄市文化馆",
+            "productId": 66,
+            "organizationAuthCode": "zzwhg",
+            "organizationUserId": 6301597
+        },
+        "58745": {
+            "orgName": "井冈山市文化馆",
+            "productId": 5,
+            "organizationAuthCode": "3468945-govevent",
+            "organizationUserId": 6301598
+        },
+        "46764": {
+            "orgName": "井冈山市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468945-govevent",
+            "organizationUserId": 6301598
+        },
+        "58746": {
+            "orgName": "井冈山市文化馆",
+            "productId": 61,
+            "organizationAuthCode": "3468945-govevent",
+            "organizationUserId": 6301598
+        },
+        "46770": {
+            "orgName": "山东省莱西市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3467912-govevent",
+            "organizationUserId": 6301601
+        },
+        "50898": {
+            "orgName": "贵州省黄平县文化馆",
+            "productId": 5,
+            "organizationAuthCode": "3469417-govevent",
+            "organizationUserId": 6301602
+        },
+        "46780": {
+            "orgName": "贵州省黄平县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469417-govevent",
+            "organizationUserId": 6301602
+        },
+        "50899": {
+            "orgName": "贵州省黄平县文化馆",
+            "productId": 39,
+            "organizationAuthCode": "3469417-govevent",
+            "organizationUserId": 6301602
+        },
+        "53410": {
+            "orgName": "贵州省黄平县文化馆",
+            "productId": 59,
+            "organizationAuthCode": "3469417-govevent",
+            "organizationUserId": 6301602
+        },
+        "52762": {
+            "orgName": "贵州省黄平县文化馆",
+            "productId": 61,
+            "organizationAuthCode": "3469417-govevent",
+            "organizationUserId": 6301602
+        },
+        "55351": {
+            "orgName": "黎川县文化馆",
+            "productId": 5,
+            "organizationAuthCode": "fzlcxwhg",
+            "organizationUserId": 6301603
+        },
+        "46806": {
+            "orgName": "黎川县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "fzlcxwhg",
+            "organizationUserId": 6301603
+        },
+        "55355": {
+            "orgName": "黎川县文化馆",
+            "productId": 39,
+            "organizationAuthCode": "fzlcxwhg",
+            "organizationUserId": 6301603
+        },
+        "55357": {
+            "orgName": "黎川县文化馆",
+            "productId": 61,
+            "organizationAuthCode": "fzlcxwhg",
+            "organizationUserId": 6301603
+        },
+        "46807": {
+            "orgName": "广东省恩平市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3470139-govevent",
+            "organizationUserId": 6301604
+        },
+        "56801": {
+            "orgName": "琼海市图书馆",
+            "productId": 1,
+            "organizationAuthCode": "1090278-govevent",
+            "organizationUserId": 6301605
+        },
+        "56802": {
+            "orgName": "琼海市图书馆",
+            "productId": 5,
+            "organizationAuthCode": "1090278-govevent",
+            "organizationUserId": 6301605
+        },
+        "46808": {
+            "orgName": "琼海市图书馆",
+            "productId": 16,
+            "organizationAuthCode": "1090278-govevent",
+            "organizationUserId": 6301605
+        },
+        "56803": {
+            "orgName": "琼海市图书馆",
+            "productId": 61,
+            "organizationAuthCode": "1090278-govevent",
+            "organizationUserId": 6301605
+        },
+        "66867": {
+            "orgName": "琼海市图书馆",
+            "productId": 66,
+            "organizationAuthCode": "1090278-govevent",
+            "organizationUserId": 6301605
+        },
+        "62283": {
+            "orgName": "琼海市图书馆",
+            "productId": 67,
+            "organizationAuthCode": "1090278-govevent",
+            "organizationUserId": 6301605
+        },
+        "46819": {
+            "orgName": "湖北省罗田县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468033-govevent",
+            "organizationUserId": 6301606
+        },
+        "46822": {
+            "orgName": "辽宁水利职业学院图书馆",
+            "productId": 21,
+            "organizationAuthCode": "nlslizy",
+            "organizationUserId": 6301607
+        },
+        "46823": {
+            "orgName": "吉林省文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468644-govevent",
+            "organizationUserId": 6301608
+        },
+        "46825": {
+            "orgName": "新疆生产建设兵团第四师可克达拉市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3470513-govevent",
+            "organizationUserId": 6301609
+        },
+        "46827": {
+            "orgName": "福建省漳州市南靖县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469961-govevent",
+            "organizationUserId": 6301610
+        },
+        "56748": {
+            "orgName": "河南省平顶山市群众艺术馆",
+            "productId": 1,
+            "organizationAuthCode": "3469015-govevent",
+            "organizationUserId": 6301611
+        },
+        "56750": {
+            "orgName": "河南省平顶山市群众艺术馆",
+            "productId": 5,
+            "organizationAuthCode": "3469015-govevent",
+            "organizationUserId": 6301611
+        },
+        "46828": {
+            "orgName": "河南省平顶山市群众艺术馆",
+            "productId": 16,
+            "organizationAuthCode": "3469015-govevent",
+            "organizationUserId": 6301611
+        },
+        "56751": {
+            "orgName": "河南省平顶山市群众艺术馆",
+            "productId": 61,
+            "organizationAuthCode": "3469015-govevent",
+            "organizationUserId": 6301611
+        },
+        "46837": {
+            "orgName": "山西省山阴县人民文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469703-govevent",
+            "organizationUserId": 6301612
+        },
+        "53978": {
+            "orgName": "山西省山阴县人民文化馆",
+            "productId": 39,
+            "organizationAuthCode": "3469703-govevent",
+            "organizationUserId": 6301612
+        },
+        "49908": {
+            "orgName": "辽宁省新宾满族自治县文化馆",
+            "productId": 3,
+            "organizationAuthCode": "xbxwhg",
+            "organizationUserId": 6301613
+        },
+        "46838": {
+            "orgName": "辽宁省新宾满族自治县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "xbxwhg",
+            "organizationUserId": 6301613
+        },
+        "53323": {
+            "orgName": "辽宁省新宾满族自治县文化馆",
+            "productId": 25,
+            "organizationAuthCode": "xbxwhg",
+            "organizationUserId": 6301613
+        },
+        "49823": {
+            "orgName": "辽宁省新宾满族自治县文化馆",
+            "productId": 41,
+            "organizationAuthCode": "xbxwhg",
+            "organizationUserId": 6301613
+        },
+        "46841": {
+            "orgName": "新津区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468246-govevent",
+            "organizationUserId": 6301614
+        },
+        "46842": {
+            "orgName": "湖南省株洲市石峰区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468115-govevent",
+            "organizationUserId": 6301615
+        },
+        "58836": {
+            "orgName": "三亚中瑞酒店管理职业学院",
+            "productId": 1,
+            "organizationAuthCode": "syzrxy",
+            "organizationUserId": 6301616
+        },
+        "58837": {
+            "orgName": "三亚中瑞酒店管理职业学院",
+            "productId": 5,
+            "organizationAuthCode": "syzrxy",
+            "organizationUserId": 6301616
+        },
+        "46854": {
+            "orgName": "三亚中瑞酒店管理职业学院",
+            "productId": 16,
+            "organizationAuthCode": "syzrxy",
+            "organizationUserId": 6301616
+        },
+        "68255": {
+            "orgName": "三亚中瑞酒店管理职业学院",
+            "productId": 21,
+            "organizationAuthCode": "syzrxy",
+            "organizationUserId": 6301616
+        },
+        "58838": {
+            "orgName": "三亚中瑞酒店管理职业学院",
+            "productId": 61,
+            "organizationAuthCode": "syzrxy",
+            "organizationUserId": 6301616
+        },
+        "66639": {
+            "orgName": "三亚中瑞酒店管理职业学院",
+            "productId": 66,
+            "organizationAuthCode": "syzrxy",
+            "organizationUserId": 6301616
+        },
+        "62783": {
+            "orgName": "三亚中瑞酒店管理职业学院",
+            "productId": 67,
+            "organizationAuthCode": "syzrxy",
+            "organizationUserId": 6301616
+        },
+        "46855": {
+            "orgName": "山西省稷山县人民文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469707-govevent",
+            "organizationUserId": 6301617
+        },
+        "56346": {
+            "orgName": "济源市文化馆",
+            "productId": 5,
+            "organizationAuthCode": "jyswhg",
+            "organizationUserId": 6301618
+        },
+        "46859": {
+            "orgName": "济源市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "jyswhg",
+            "organizationUserId": 6301618
+        },
+        "60394": {
+            "orgName": "济源市文化馆",
+            "productId": 39,
+            "organizationAuthCode": "jyswhg",
+            "organizationUserId": 6301618
+        },
+        "56350": {
+            "orgName": "济源市文化馆",
+            "productId": 61,
+            "organizationAuthCode": "jyswhg",
+            "organizationUserId": 6301618
+        },
+        "85639": {
+            "orgName": "济源市文化馆",
+            "productId": 66,
+            "organizationAuthCode": "jyswhg",
+            "organizationUserId": 6301618
+        },
+        "59174": {
+            "orgName": "中共上海市静安区委党校",
+            "productId": 5,
+            "organizationAuthCode": "jadx",
+            "organizationUserId": 6301619
+        },
+        "46865": {
+            "orgName": "中共上海市静安区委党校",
+            "productId": 16,
+            "organizationAuthCode": "jadx",
+            "organizationUserId": 6301619
+        },
+        "59175": {
+            "orgName": "中共上海市静安区委党校",
+            "productId": 61,
+            "organizationAuthCode": "jadx",
+            "organizationUserId": 6301619
+        },
+        "62848": {
+            "orgName": "中共上海市静安区委党校",
+            "productId": 67,
+            "organizationAuthCode": "jadx",
+            "organizationUserId": 6301619
+        },
+        "46869": {
+            "orgName": "德兴市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469980-govevent",
+            "organizationUserId": 6301621
+        },
+        "54690": {
+            "orgName": "榆中县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "libfyz",
+            "organizationUserId": 6301622
+        },
+        "49477": {
+            "orgName": "榆中县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "libfyz",
+            "organizationUserId": 6301622
+        },
+        "46884": {
+            "orgName": "榆中县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "libfyz",
+            "organizationUserId": 6301622
+        },
+        "54691": {
+            "orgName": "榆中县图书馆",
+            "productId": 61,
+            "organizationAuthCode": "libfyz",
+            "organizationUserId": 6301622
+        },
+        "67177": {
+            "orgName": "榆中县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "libfyz",
+            "organizationUserId": 6301622
+        },
+        "61430": {
+            "orgName": "榆中县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "libfyz",
+            "organizationUserId": 6301622
+        },
+        "46886": {
+            "orgName": "广东省开平市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468142-govevent",
+            "organizationUserId": 6301623
+        },
+        "49153": {
+            "orgName": "洛阳市偃师市图书馆",
+            "productId": 5,
+            "organizationAuthCode": "ysslib",
+            "organizationUserId": 6301624
+        },
+        "46887": {
+            "orgName": "洛阳市偃师市图书馆",
+            "productId": 16,
+            "organizationAuthCode": "ysslib",
+            "organizationUserId": 6301624
+        },
+        "75514": {
+            "orgName": "洛阳市偃师市图书馆",
+            "productId": 66,
+            "organizationAuthCode": "ysslib",
+            "organizationUserId": 6301624
+        },
+        "57934": {
+            "orgName": "重庆市大足区文化馆",
+            "productId": 5,
+            "organizationAuthCode": "dzqwhg",
+            "organizationUserId": 6301625
+        },
+        "46888": {
+            "orgName": "重庆市大足区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "dzqwhg",
+            "organizationUserId": 6301625
+        },
+        "57935": {
+            "orgName": "重庆市大足区文化馆",
+            "productId": 39,
+            "organizationAuthCode": "dzqwhg",
+            "organizationUserId": 6301625
+        },
+        "57938": {
+            "orgName": "重庆市大足区文化馆",
+            "productId": 61,
+            "organizationAuthCode": "dzqwhg",
+            "organizationUserId": 6301625
+        },
+        "73938": {
+            "orgName": "重庆市大足区文化馆",
+            "productId": 66,
+            "organizationAuthCode": "dzqwhg",
+            "organizationUserId": 6301625
+        },
+        "51660": {
+            "orgName": "赤峰市红山区少年儿童图书馆",
+            "productId": 5,
+            "organizationAuthCode": "hsqsrtsg",
+            "organizationUserId": 6301626
+        },
+        "46889": {
+            "orgName": "赤峰市红山区少年儿童图书馆",
+            "productId": 16,
+            "organizationAuthCode": "hsqsrtsg",
+            "organizationUserId": 6301626
+        },
+        "46893": {
+            "orgName": "迭部县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "1090825-govevent",
+            "organizationUserId": 6301627
+        },
+        "46899": {
+            "orgName": "湖南省湘潭市雨湖区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468061-govevent",
+            "organizationUserId": 6301628
+        },
+        "57014": {
+            "orgName": "四川省茂县文化馆",
+            "productId": 5,
+            "organizationAuthCode": "mxwhg",
+            "organizationUserId": 6301629
+        },
+        "46903": {
+            "orgName": "四川省茂县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "mxwhg",
+            "organizationUserId": 6301629
+        },
+        "48773": {
+            "orgName": "四川省茂县文化馆",
+            "productId": 39,
+            "organizationAuthCode": "mxwhg",
+            "organizationUserId": 6301629
+        },
+        "57015": {
+            "orgName": "四川省茂县文化馆",
+            "productId": 61,
+            "organizationAuthCode": "mxwhg",
+            "organizationUserId": 6301629
+        },
+        "81841": {
+            "orgName": "四川省茂县文化馆",
+            "productId": 66,
+            "organizationAuthCode": "mxwhg",
+            "organizationUserId": 6301629
+        },
+        "63998": {
+            "orgName": "垣曲县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "1089285-govevent",
+            "organizationUserId": 6301631
+        },
+        "48705": {
+            "orgName": "垣曲县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "1089285-govevent",
+            "organizationUserId": 6301631
+        },
+        "46912": {
+            "orgName": "垣曲县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "1089285-govevent",
+            "organizationUserId": 6301631
+        },
+        "64000": {
+            "orgName": "垣曲县图书馆",
+            "productId": 61,
+            "organizationAuthCode": "1089285-govevent",
+            "organizationUserId": 6301631
+        },
+        "70883": {
+            "orgName": "垣曲县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "1089285-govevent",
+            "organizationUserId": 6301631
+        },
+        "63999": {
+            "orgName": "垣曲县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "1089285-govevent",
+            "organizationUserId": 6301631
+        },
+        "56839": {
+            "orgName": "昌江黎族自治县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "lzzzx",
+            "organizationUserId": 6301632
+        },
+        "56840": {
+            "orgName": "昌江黎族自治县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "lzzzx",
+            "organizationUserId": 6301632
+        },
+        "46915": {
+            "orgName": "昌江黎族自治县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "lzzzx",
+            "organizationUserId": 6301632
+        },
+        "85405": {
+            "orgName": "昌江黎族自治县图书馆",
+            "productId": 19,
+            "organizationAuthCode": "lzzzx",
+            "organizationUserId": 6301632
+        },
+        "68271": {
+            "orgName": "昌江黎族自治县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "lzzzx",
+            "organizationUserId": 6301632
+        },
+        "56841": {
+            "orgName": "昌江黎族自治县图书馆",
+            "productId": 61,
+            "organizationAuthCode": "lzzzx",
+            "organizationUserId": 6301632
+        },
+        "66874": {
+            "orgName": "昌江黎族自治县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "lzzzx",
+            "organizationUserId": 6301632
+        },
+        "62294": {
+            "orgName": "昌江黎族自治县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "lzzzx",
+            "organizationUserId": 6301632
+        },
+        "85407": {
+            "orgName": "昌江黎族自治县图书馆",
+            "productId": 93,
+            "organizationAuthCode": "lzzzx",
+            "organizationUserId": 6301632
+        },
+        "85406": {
+            "orgName": "昌江黎族自治县图书馆",
+            "productId": 98,
+            "organizationAuthCode": "lzzzx",
+            "organizationUserId": 6301632
+        },
+        "46916": {
+            "orgName": "吉林省和龙市文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468656-govevent",
+            "organizationUserId": 6301633
+        },
+        "57546": {
+            "orgName": "安徽省金寨县文化馆",
+            "productId": 1,
+            "organizationAuthCode": "jzxwhg",
+            "organizationUserId": 6301634
+        },
+        "57547": {
+            "orgName": "安徽省金寨县文化馆",
+            "productId": 5,
+            "organizationAuthCode": "jzxwhg",
+            "organizationUserId": 6301634
+        },
+        "46917": {
+            "orgName": "安徽省金寨县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "jzxwhg",
+            "organizationUserId": 6301634
+        },
+        "57548": {
+            "orgName": "安徽省金寨县文化馆",
+            "productId": 38,
+            "organizationAuthCode": "jzxwhg",
+            "organizationUserId": 6301634
+        },
+        "57549": {
+            "orgName": "安徽省金寨县文化馆",
+            "productId": 39,
+            "organizationAuthCode": "jzxwhg",
+            "organizationUserId": 6301634
+        },
+        "57550": {
+            "orgName": "安徽省金寨县文化馆",
+            "productId": 61,
+            "organizationAuthCode": "jzxwhg",
+            "organizationUserId": 6301634
+        },
+        "49490": {
+            "orgName": "蓝田县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "1092990-govevent",
+            "organizationUserId": 6301635
+        },
+        "47818": {
+            "orgName": "蓝田县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "1092990-govevent",
+            "organizationUserId": 6301635
+        },
+        "46919": {
+            "orgName": "蓝田县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "1092990-govevent",
+            "organizationUserId": 6301635
+        },
+        "60678": {
+            "orgName": "宁夏同心县文化馆",
+            "productId": 1,
+            "organizationAuthCode": "nxtxxwhg",
+            "organizationUserId": 6301636
+        },
+        "60679": {
+            "orgName": "宁夏同心县文化馆",
+            "productId": 5,
+            "organizationAuthCode": "nxtxxwhg",
+            "organizationUserId": 6301636
+        },
+        "46920": {
+            "orgName": "宁夏同心县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "nxtxxwhg",
+            "organizationUserId": 6301636
+        },
+        "60676": {
+            "orgName": "宁夏同心县文化馆",
+            "productId": 38,
+            "organizationAuthCode": "nxtxxwhg",
+            "organizationUserId": 6301636
+        },
+        "60677": {
+            "orgName": "宁夏同心县文化馆",
+            "productId": 39,
+            "organizationAuthCode": "nxtxxwhg",
+            "organizationUserId": 6301636
+        },
+        "60680": {
+            "orgName": "宁夏同心县文化馆",
+            "productId": 61,
+            "organizationAuthCode": "nxtxxwhg",
+            "organizationUserId": 6301636
+        },
+        "63162": {
+            "orgName": "贵州省天柱县文化馆",
+            "productId": 1,
+            "organizationAuthCode": "3469419-govevent",
+            "organizationUserId": 6301637
+        },
+        "63163": {
+            "orgName": "贵州省天柱县文化馆",
+            "productId": 5,
+            "organizationAuthCode": "3469419-govevent",
+            "organizationUserId": 6301637
+        },
+        "46924": {
+            "orgName": "贵州省天柱县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469419-govevent",
+            "organizationUserId": 6301637
+        },
+        "63164": {
+            "orgName": "贵州省天柱县文化馆",
+            "productId": 38,
+            "organizationAuthCode": "3469419-govevent",
+            "organizationUserId": 6301637
+        },
+        "63165": {
+            "orgName": "贵州省天柱县文化馆",
+            "productId": 39,
+            "organizationAuthCode": "3469419-govevent",
+            "organizationUserId": 6301637
+        },
+        "63166": {
+            "orgName": "贵州省天柱县文化馆",
+            "productId": 61,
+            "organizationAuthCode": "3469419-govevent",
+            "organizationUserId": 6301637
+        },
+        "58971": {
+            "orgName": "湖北省英山县文化馆",
+            "productId": 5,
+            "organizationAuthCode": "3468034-govevent",
+            "organizationUserId": 6301638
+        },
+        "46926": {
+            "orgName": "湖北省英山县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468034-govevent",
+            "organizationUserId": 6301638
+        },
+        "58972": {
+            "orgName": "湖北省英山县文化馆",
+            "productId": 61,
+            "organizationAuthCode": "3468034-govevent",
+            "organizationUserId": 6301638
+        },
+        "58124": {
+            "orgName": "河北省石家庄市群众艺术馆",
+            "productId": 1,
+            "organizationAuthCode": "sjzqyg",
+            "organizationUserId": 6301639
+        },
+        "58126": {
+            "orgName": "河北省石家庄市群众艺术馆",
+            "productId": 5,
+            "organizationAuthCode": "sjzqyg",
+            "organizationUserId": 6301639
+        },
+        "46927": {
+            "orgName": "河北省石家庄市群众艺术馆",
+            "productId": 16,
+            "organizationAuthCode": "sjzqyg",
+            "organizationUserId": 6301639
+        },
+        "58127": {
+            "orgName": "河北省石家庄市群众艺术馆",
+            "productId": 38,
+            "organizationAuthCode": "sjzqyg",
+            "organizationUserId": 6301639
+        },
+        "58128": {
+            "orgName": "河北省石家庄市群众艺术馆",
+            "productId": 39,
+            "organizationAuthCode": "sjzqyg",
+            "organizationUserId": 6301639
+        },
+        "58129": {
+            "orgName": "河北省石家庄市群众艺术馆",
+            "productId": 61,
+            "organizationAuthCode": "sjzqyg",
+            "organizationUserId": 6301639
+        },
+        "81439": {
+            "orgName": "河北省石家庄市群众艺术馆",
+            "productId": 66,
+            "organizationAuthCode": "sjzqyg",
+            "organizationUserId": 6301639
+        },
+        "81446": {
+            "orgName": "河北省石家庄市群众艺术馆",
+            "productId": 89,
+            "organizationAuthCode": "sjzqyg",
+            "organizationUserId": 6301639
+        },
+        "81440": {
+            "orgName": "河北省石家庄市群众艺术馆",
+            "productId": 90,
+            "organizationAuthCode": "sjzqyg",
+            "organizationUserId": 6301639
+        },
+        "81441": {
+            "orgName": "河北省石家庄市群众艺术馆",
+            "productId": 91,
+            "organizationAuthCode": "sjzqyg",
+            "organizationUserId": 6301639
+        },
+        "81443": {
+            "orgName": "河北省石家庄市群众艺术馆",
+            "productId": 92,
+            "organizationAuthCode": "sjzqyg",
+            "organizationUserId": 6301639
+        },
+        "81444": {
+            "orgName": "河北省石家庄市群众艺术馆",
+            "productId": 93,
+            "organizationAuthCode": "sjzqyg",
+            "organizationUserId": 6301639
+        },
+        "46932": {
+            "orgName": "南宁职业技术大学图书馆",
+            "productId": 21,
+            "organizationAuthCode": "1426",
+            "organizationUserId": 6301640
+        },
+        "46933": {
+            "orgName": "贵州省锦屏县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3469453-govevent",
+            "organizationUserId": 6301641
+        },
+        "76154": {
+            "orgName": "贵州省锦屏县文化馆",
+            "productId": 66,
+            "organizationAuthCode": "3469453-govevent",
+            "organizationUserId": 6301641
+        },
+        "46934": {
+            "orgName": "定南县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "dlxwhg",
+            "organizationUserId": 6301642
+        },
+        "48278": {
+            "orgName": "定南县文化馆",
+            "productId": 39,
+            "organizationAuthCode": "dlxwhg",
+            "organizationUserId": 6301642
+        },
+        "53548": {
+            "orgName": "门头沟区图书馆",
+            "productId": 5,
+            "organizationAuthCode": "mtg",
+            "organizationUserId": 6301643
+        },
+        "52875": {
+            "orgName": "门头沟区图书馆",
+            "productId": 13,
+            "organizationAuthCode": "mtg",
+            "organizationUserId": 6301643
+        },
+        "46937": {
+            "orgName": "门头沟区图书馆",
+            "productId": 16,
+            "organizationAuthCode": "mtg",
+            "organizationUserId": 6301643
+        },
+        "85286": {
+            "orgName": "门头沟区图书馆",
+            "productId": 19,
+            "organizationAuthCode": "mtg",
+            "organizationUserId": 6301643
+        },
+        "52554": {
+            "orgName": "门头沟区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "mtg",
+            "organizationUserId": 6301643
+        },
+        "63767": {
+            "orgName": "门头沟区图书馆",
+            "productId": 38,
+            "organizationAuthCode": "mtg",
+            "organizationUserId": 6301643
+        },
+        "63768": {
+            "orgName": "门头沟区图书馆",
+            "productId": 39,
+            "organizationAuthCode": "mtg",
+            "organizationUserId": 6301643
+        },
+        "60034": {
+            "orgName": "门头沟区图书馆",
+            "productId": 57,
+            "organizationAuthCode": "mtg",
+            "organizationUserId": 6301643
+        },
+        "58892": {
+            "orgName": "门头沟区图书馆",
+            "productId": 61,
+            "organizationAuthCode": "mtg",
+            "organizationUserId": 6301643
+        },
+        "62795": {
+            "orgName": "门头沟区图书馆",
+            "productId": 67,
+            "organizationAuthCode": "mtg",
+            "organizationUserId": 6301643
+        },
+        "85288": {
+            "orgName": "门头沟区图书馆",
+            "productId": 93,
+            "organizationAuthCode": "mtg",
+            "organizationUserId": 6301643
+        },
+        "85287": {
+            "orgName": "门头沟区图书馆",
+            "productId": 98,
+            "organizationAuthCode": "mtg",
+            "organizationUserId": 6301643
+        },
+        "57698": {
+            "orgName": "廊坊市群众艺术馆",
+            "productId": 5,
+            "organizationAuthCode": "lfqzysg",
+            "organizationUserId": 6301644
+        },
+        "46940": {
+            "orgName": "廊坊市群众艺术馆",
+            "productId": 16,
+            "organizationAuthCode": "lfqzysg",
+            "organizationUserId": 6301644
+        },
+        "57700": {
+            "orgName": "廊坊市群众艺术馆",
+            "productId": 39,
+            "organizationAuthCode": "lfqzysg",
+            "organizationUserId": 6301644
+        },
+        "57705": {
+            "orgName": "廊坊市群众艺术馆",
+            "productId": 61,
+            "organizationAuthCode": "lfqzysg",
+            "organizationUserId": 6301644
+        },
+        "46972": {
+            "orgName": "梁河县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "1090582-govevent",
+            "organizationUserId": 6301647
+        },
+        "46979": {
+            "orgName": "云南省畹町经济开发区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3470327-govevent",
+            "organizationUserId": 6301648
+        },
+        "46982": {
+            "orgName": "河南省武陟县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "hnwzxwhg",
+            "organizationUserId": 6301649
+        },
+        "86890": {
+            "orgName": "河南省武陟县文化馆",
+            "productId": 66,
+            "organizationAuthCode": "hnwzxwhg",
+            "organizationUserId": 6301649
+        },
+        "46983": {
+            "orgName": "湖南省邵东县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "sdxwhg",
+            "organizationUserId": 6301650
+        },
+        "48801": {
+            "orgName": "湖南省邵东县文化馆",
+            "productId": 39,
+            "organizationAuthCode": "sdxwhg",
+            "organizationUserId": 6301650
+        },
+        "46984": {
+            "orgName": "河南省汝州市群众艺术馆",
+            "productId": 16,
+            "organizationAuthCode": "3469048-govevent",
+            "organizationUserId": 6301651
+        },
+        "76576": {
+            "orgName": "河南省汝州市群众艺术馆",
+            "productId": 66,
+            "organizationAuthCode": "3469048-govevent",
+            "organizationUserId": 6301651
+        },
+        "46987": {
+            "orgName": "都昌县文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3468936-govevent",
+            "organizationUserId": 6301653
+        },
+        "46998": {
+            "orgName": "合作市图书馆",
+            "productId": 16,
+            "organizationAuthCode": "1090821-govevent",
+            "organizationUserId": 6301654
+        },
+        "66746": {
+            "orgName": "合作市图书馆",
+            "productId": 66,
+            "organizationAuthCode": "1090821-govevent",
+            "organizationUserId": 6301654
+        },
+        "56733": {
+            "orgName": "秀英区图书馆",
+            "productId": 5,
+            "organizationAuthCode": "1090273-govevent",
+            "organizationUserId": 6301655
+        },
+        "47003": {
+            "orgName": "秀英区图书馆",
+            "productId": 16,
+            "organizationAuthCode": "1090273-govevent",
+            "organizationUserId": 6301655
+        },
+        "56736": {
+            "orgName": "秀英区图书馆",
+            "productId": 61,
+            "organizationAuthCode": "1090273-govevent",
+            "organizationUserId": 6301655
+        },
+        "66864": {
+            "orgName": "秀英区图书馆",
+            "productId": 66,
+            "organizationAuthCode": "1090273-govevent",
+            "organizationUserId": 6301655
+        },
+        "62254": {
+            "orgName": "秀英区图书馆",
+            "productId": 67,
+            "organizationAuthCode": "1090273-govevent",
+            "organizationUserId": 6301655
+        },
+        "56906": {
+            "orgName": "白沙黎族自治县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "1090286-govevent",
+            "organizationUserId": 6301656
+        },
+        "47004": {
+            "orgName": "白沙黎族自治县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "1090286-govevent",
+            "organizationUserId": 6301656
+        },
+        "56907": {
+            "orgName": "白沙黎族自治县图书馆",
+            "productId": 61,
+            "organizationAuthCode": "1090286-govevent",
+            "organizationUserId": 6301656
+        },
+        "66873": {
+            "orgName": "白沙黎族自治县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "1090286-govevent",
+            "organizationUserId": 6301656
+        },
+        "62316": {
+            "orgName": "白沙黎族自治县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "1090286-govevent",
+            "organizationUserId": 6301656
+        },
+        "47023": {
+            "orgName": "山东省青岛市市南区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "snqwhg",
+            "organizationUserId": 6301658
+        },
+        "77114": {
+            "orgName": "山东省青岛市市南区文化馆",
+            "productId": 66,
+            "organizationAuthCode": "snqwhg",
+            "organizationUserId": 6301658
+        },
+        "47024": {
+            "orgName": "太仓市文化广电新闻出版局/太仓市图书馆",
+            "productId": 16,
+            "organizationAuthCode": "1219690-govevent",
+            "organizationUserId": 6301659
+        },
+        "47028": {
+            "orgName": "广灵县文化局",
+            "productId": 16,
+            "organizationAuthCode": "1224441-govevent",
+            "organizationUserId": 6301660
+        },
+        "47029": {
+            "orgName": "吉林省长春市二道区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "edqwhg",
+            "organizationUserId": 6301661
+        },
+        "49033": {
+            "orgName": "吉林省长春市二道区文化馆",
+            "productId": 39,
+            "organizationAuthCode": "edqwhg",
+            "organizationUserId": 6301661
+        },
+        "47030": {
+            "orgName": "宁夏石嘴山市惠农区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3476701-govevent",
+            "organizationUserId": 6301662
+        },
+        "47031": {
+            "orgName": "四川省雅安市名山区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3476703-govevent",
+            "organizationUserId": 6301663
+        },
+        "47032": {
+            "orgName": "重庆市双桥经开区文化馆",
+            "productId": 16,
+            "organizationAuthCode": "3476702-govevent",
+            "organizationUserId": 6301664
+        },
+        "47033": {
+            "orgName": "大连广播电视大学",
+            "productId": 21,
+            "organizationAuthCode": "dlgbdsdx",
+            "organizationUserId": 6301665
+        },
+        "47052": {
+            "orgName": "葫芦岛市群众艺术馆",
+            "productId": 16,
+            "organizationAuthCode": "3439729-govevent",
+            "organizationUserId": 6301667
+        },
+        "49540": {
+            "orgName": "洛阳市涧西区图书馆",
+            "productId": 1,
+            "organizationAuthCode": "lysjxqtsg",
+            "organizationUserId": 6301668
+        },
+        "49541": {
+            "orgName": "洛阳市涧西区图书馆",
+            "productId": 5,
+            "organizationAuthCode": "lysjxqtsg",
+            "organizationUserId": 6301668
+        },
+        "47076": {
+            "orgName": "洛阳市涧西区图书馆",
+            "productId": 16,
+            "organizationAuthCode": "lysjxqtsg",
+            "organizationUserId": 6301668
+        },
+        "54039": {
+            "orgName": "洛阳市涧西区图书馆",
+            "productId": 61,
+            "organizationAuthCode": "lysjxqtsg",
+            "organizationUserId": 6301668
+        },
+        "61032": {
+            "orgName": "洛阳市涧西区图书馆",
+            "productId": 67,
+            "organizationAuthCode": "lysjxqtsg",
+            "organizationUserId": 6301668
+        },
+        "47109": {
+            "orgName": "阿图什市图书馆",
+            "productId": 21,
+            "organizationAuthCode": "atslib",
+            "organizationUserId": 6301672
+        },
+        "47111": {
+            "orgName": "和布克赛尔蒙古自治县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "hmacl",
+            "organizationUserId": 6301673
+        },
+        "63769": {
+            "orgName": "阿克陶县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "aktlib",
+            "organizationUserId": 6301674
+        },
+        "47113": {
+            "orgName": "阿克陶县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "aktlib",
+            "organizationUserId": 6301674
+        },
+        "47114": {
+            "orgName": "克拉玛依区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "klmyqtsg",
+            "organizationUserId": 6301675
+        },
+        "47115": {
+            "orgName": "伽师县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "gsxlib",
+            "organizationUserId": 6301676
+        },
+        "47117": {
+            "orgName": "阿合奇县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "ahqclib",
+            "organizationUserId": 6301678
+        }
+    },
+    "requestCount": 13652
 }
