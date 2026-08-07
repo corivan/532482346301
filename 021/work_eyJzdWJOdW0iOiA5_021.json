@@ -16056,7 +16056,4131 @@
             101
         ]
     },
-    "processedAuthCodes": [],
-    "otherProductInstance": {},
-    "requestCount": 0
+    "processedAuthCodes": [
+        "dbyc",
+        "zrlib",
+        "lpss",
+        "zjsj",
+        "714",
+        "tzzjj",
+        "dsjt",
+        "fddx",
+        "xzyztsg",
+        "fcxtsg",
+        "csjc",
+        "dljy",
+        "gcdj",
+        "pmsm",
+        "tjgzw",
+        "nocinco",
+        "zlhr",
+        "gdyh",
+        "lagh",
+        "fjhb",
+        "hkyjy",
+        "hnyzjt",
+        "gltsg",
+        "zmzgs",
+        "dswx",
+        "xjxy-lib",
+        "hdxny",
+        "norinco",
+        "cxds",
+        "ghnmyyb",
+        "ldzysw",
+        "nhxzgh",
+        "bhxq",
+        "hbjt",
+        "ajxtsg",
+        "gxtzjt",
+        "yncj",
+        "sdwlxy",
+        "bbwtz",
+        "dllgcs",
+        "tjyzlib",
+        "chqzgh",
+        "fagh",
+        "hagh",
+        "dtlrgh",
+        "jsyjjt",
+        "gltbl",
+        "cxfdgs",
+        "nsxtsg",
+        "ccteg",
+        "jsgh",
+        "lzzy",
+        "tcswjw",
+        "ntsjgh",
+        "thxytsg",
+        "nggh",
+        "wysy",
+        "jhwf",
+        "fjghgh",
+        "sgjtgh",
+        "whsdx",
+        "xtzyjsxy",
+        "gsjt",
+        "yqkt001",
+        "alitzgsw",
+        "hbgs",
+        "zgnfh",
+        "cscec1b2",
+        "gtjt",
+        "jljcxy",
+        "hnsc",
+        "exgs",
+        "pjdx",
+        "blqtsg",
+        "htxtsg",
+        "lzsz",
+        "bjfgw",
+        "hdkf",
+        "ghny",
+        "jgtest3",
+        "caca",
+        "xhxlib",
+        "blsf",
+        "hnym",
+        "cfgh",
+        "dxcw",
+        "bhht",
+        "cqxs",
+        "hgdj",
+        "ldlib",
+        "jxs",
+        "dysgh",
+        "schdjc",
+        "jrpxzx",
+        "jxslib",
+        "cct",
+        "hbhj",
+        "nmycgh",
+        "sqgxy",
+        "jshslib",
+        "mlxtsg",
+        "bjzjj",
+        "zgtwt",
+        "wtzk",
+        "tjsydx",
+        "njcjlib",
+        "gfyhbyl",
+        "xupt",
+        "zjrzfy",
+        "ncxlib",
+        "wwszzb",
+        "pbcgh",
+        "hzzyjslib",
+        "tyjs",
+        "biad",
+        "cscfc",
+        "cxwjw",
+        "gxq",
+        "jcdl",
+        "hgjt",
+        "zakjzyxy",
+        "zmps",
+        "whsf",
+        "sxqnzy",
+        "hndl",
+        "njsjdx",
+        "yxgxq",
+        "flxslsn",
+        "lystsg",
+        "ahgbys",
+        "ctecdcs",
+        "thlh",
+        "jtzj",
+        "lsqlib",
+        "ljlib",
+        "ahzyydx",
+        "wkky",
+        "fxxgaj",
+        "hxyh",
+        "zsyxz",
+        "sjzgt",
+        "jqgs",
+        "shdk2",
+        "cdtgx",
+        "tlzb",
+        "hldjc",
+        "yncsjs",
+        "0828",
+        "sxhwj",
+        "fpxzgh"
+    ],
+    "otherProductInstance": {
+        "25855": {
+            "orgName": "北京第二外国语学院中瑞酒店管理学院",
+            "productId": 3,
+            "organizationAuthCode": "zrlib",
+            "organizationUserId": 6296953
+        },
+        "25836": {
+            "orgName": "北京第二外国语学院中瑞酒店管理学院",
+            "productId": 5,
+            "organizationAuthCode": "zrlib",
+            "organizationUserId": 6296953
+        },
+        "35494": {
+            "orgName": "北京第二外国语学院中瑞酒店管理学院",
+            "productId": 11,
+            "organizationAuthCode": "zrlib",
+            "organizationUserId": 6296953
+        },
+        "35496": {
+            "orgName": "北京第二外国语学院中瑞酒店管理学院",
+            "productId": 12,
+            "organizationAuthCode": "zrlib",
+            "organizationUserId": 6296953
+        },
+        "46931": {
+            "orgName": "北京第二外国语学院中瑞酒店管理学院",
+            "productId": 16,
+            "organizationAuthCode": "zrlib",
+            "organizationUserId": 6296953
+        },
+        "35497": {
+            "orgName": "北京第二外国语学院中瑞酒店管理学院",
+            "productId": 17,
+            "organizationAuthCode": "zrlib",
+            "organizationUserId": 6296953
+        },
+        "33911": {
+            "orgName": "北京第二外国语学院中瑞酒店管理学院",
+            "productId": 32,
+            "organizationAuthCode": "zrlib",
+            "organizationUserId": 6296953
+        },
+        "74867": {
+            "orgName": "北京第二外国语学院中瑞酒店管理学院",
+            "productId": 66,
+            "organizationAuthCode": "zrlib",
+            "organizationUserId": 6296953
+        },
+        "56976": {
+            "orgName": "六盘水市图书馆",
+            "productId": 1,
+            "organizationAuthCode": "lpss",
+            "organizationUserId": 3433101
+        },
+        "9548": {
+            "orgName": "六盘水市图书馆",
+            "productId": 3,
+            "organizationAuthCode": "lpss",
+            "organizationUserId": 3433101
+        },
+        "34447": {
+            "orgName": "六盘水市图书馆",
+            "productId": 10,
+            "organizationAuthCode": "lpss",
+            "organizationUserId": 3433101
+        },
+        "47259": {
+            "orgName": "六盘水市图书馆",
+            "productId": 16,
+            "organizationAuthCode": "lpss",
+            "organizationUserId": 3433101
+        },
+        "83503": {
+            "orgName": "六盘水市图书馆",
+            "productId": 19,
+            "organizationAuthCode": "lpss",
+            "organizationUserId": 3433101
+        },
+        "38444": {
+            "orgName": "六盘水市图书馆",
+            "productId": 21,
+            "organizationAuthCode": "lpss",
+            "organizationUserId": 3433101
+        },
+        "56754": {
+            "orgName": "六盘水市图书馆",
+            "productId": 61,
+            "organizationAuthCode": "lpss",
+            "organizationUserId": 3433101
+        },
+        "59353": {
+            "orgName": "六盘水市图书馆",
+            "productId": 62,
+            "organizationAuthCode": "lpss",
+            "organizationUserId": 3433101
+        },
+        "66244": {
+            "orgName": "六盘水市图书馆",
+            "productId": 66,
+            "organizationAuthCode": "lpss",
+            "organizationUserId": 3433101
+        },
+        "62261": {
+            "orgName": "六盘水市图书馆",
+            "productId": 67,
+            "organizationAuthCode": "lpss",
+            "organizationUserId": 3433101
+        },
+        "82834": {
+            "orgName": "六盘水市图书馆",
+            "productId": 93,
+            "organizationAuthCode": "lpss",
+            "organizationUserId": 3433101
+        },
+        "82833": {
+            "orgName": "六盘水市图书馆",
+            "productId": 98,
+            "organizationAuthCode": "lpss",
+            "organizationUserId": 3433101
+        },
+        "25846": {
+            "orgName": "中国中建设计集团有限公司",
+            "productId": 1,
+            "organizationAuthCode": "zjsj",
+            "organizationUserId": 6296957
+        },
+        "25848": {
+            "orgName": "中国中建设计集团有限公司",
+            "productId": 5,
+            "organizationAuthCode": "zjsj",
+            "organizationUserId": 6296957
+        },
+        "76715": {
+            "orgName": "中国中建设计集团有限公司",
+            "productId": 79,
+            "organizationAuthCode": "zjsj",
+            "organizationUserId": 6296957
+        },
+        "25854": {
+            "orgName": "中国船舶信息中心(中国船舶重工集团公司第七一四研究所)",
+            "productId": 5,
+            "organizationAuthCode": "714",
+            "organizationUserId": 6296959
+        },
+        "25858": {
+            "orgName": "北京市通州区质量技术监督局",
+            "productId": 5,
+            "organizationAuthCode": "tzzjj",
+            "organizationUserId": 6296960
+        },
+        "25862": {
+            "orgName": "四川德胜集团",
+            "productId": 5,
+            "organizationAuthCode": "dsjt",
+            "organizationUserId": 6296961
+        },
+        "21370": {
+            "orgName": "复旦大学图书馆",
+            "productId": 1,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "37580": {
+            "orgName": "复旦大学图书馆",
+            "productId": 5,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "39160": {
+            "orgName": "复旦大学图书馆",
+            "productId": 11,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "45396": {
+            "orgName": "复旦大学图书馆",
+            "productId": 16,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "32112": {
+            "orgName": "复旦大学图书馆",
+            "productId": 21,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "39571": {
+            "orgName": "复旦大学图书馆",
+            "productId": 24,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "53999": {
+            "orgName": "复旦大学图书馆",
+            "productId": 61,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "60452": {
+            "orgName": "复旦大学图书馆",
+            "productId": 66,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "61007": {
+            "orgName": "复旦大学图书馆",
+            "productId": 67,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "81026": {
+            "orgName": "复旦大学图书馆",
+            "productId": 89,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "81022": {
+            "orgName": "复旦大学图书馆",
+            "productId": 90,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "81023": {
+            "orgName": "复旦大学图书馆",
+            "productId": 91,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "81024": {
+            "orgName": "复旦大学图书馆",
+            "productId": 92,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "81025": {
+            "orgName": "复旦大学图书馆",
+            "productId": 93,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "83804": {
+            "orgName": "复旦大学图书馆",
+            "productId": 98,
+            "organizationAuthCode": "fddx",
+            "organizationUserId": 6292764
+        },
+        "25870": {
+            "orgName": "忻州一中",
+            "productId": 3,
+            "organizationAuthCode": "xzyztsg",
+            "organizationUserId": 6296964
+        },
+        "47877": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "27850": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 3,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "35554": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "46365": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "83411": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 19,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "54969": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 61,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "67362": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "61564": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "77967": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 70,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "77968": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 90,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "77969": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 91,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "77970": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 92,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "77971": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 93,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "82495": {
+            "orgName": "贺州富川瑶族自治县图书馆",
+            "productId": 98,
+            "organizationAuthCode": "fcxtsg",
+            "organizationUserId": 6296965
+        },
+        "26080": {
+            "orgName": "昆明长水机场",
+            "productId": 3,
+            "organizationAuthCode": "csjc",
+            "organizationUserId": 6296967
+        },
+        "33392": {
+            "orgName": "中山区解放路667号",
+            "productId": 5,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "32634": {
+            "orgName": "中山区解放路667号",
+            "productId": 10,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "33394": {
+            "orgName": "中山区解放路667号",
+            "productId": 11,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "33395": {
+            "orgName": "中山区解放路667号",
+            "productId": 12,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "44399": {
+            "orgName": "中山区解放路667号",
+            "productId": 13,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "44401": {
+            "orgName": "中山区解放路667号",
+            "productId": 15,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "44397": {
+            "orgName": "中山区解放路667号",
+            "productId": 16,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "33393": {
+            "orgName": "中山区解放路667号",
+            "productId": 17,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "33450": {
+            "orgName": "中山区解放路667号",
+            "productId": 21,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "39897": {
+            "orgName": "中山区解放路667号",
+            "productId": 24,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "44403": {
+            "orgName": "中山区解放路667号",
+            "productId": 26,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "64379": {
+            "orgName": "中山区解放路667号",
+            "productId": 48,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "75203": {
+            "orgName": "中山区解放路667号",
+            "productId": 54,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "75178": {
+            "orgName": "中山区解放路667号",
+            "productId": 66,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "86714": {
+            "orgName": "中山区解放路667号",
+            "productId": 89,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "86712": {
+            "orgName": "中山区解放路667号",
+            "productId": 90,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "86713": {
+            "orgName": "中山区解放路667号",
+            "productId": 91,
+            "organizationAuthCode": "dljy",
+            "organizationUserId": 6296968
+        },
+        "26206": {
+            "orgName": "中共管城回族区委组织部",
+            "productId": 3,
+            "organizationAuthCode": "gcdj",
+            "organizationUserId": 6296969
+        },
+        "26160": {
+            "orgName": "中共管城回族区委组织部",
+            "productId": 5,
+            "organizationAuthCode": "gcdj",
+            "organizationUserId": 6296969
+        },
+        "26161": {
+            "orgName": "中共管城回族区委组织部",
+            "productId": 16,
+            "organizationAuthCode": "gcdj",
+            "organizationUserId": 6296969
+        },
+        "25894": {
+            "orgName": "中国平煤神马集团",
+            "productId": 1,
+            "organizationAuthCode": "pmsm",
+            "organizationUserId": 6296970
+        },
+        "49696": {
+            "orgName": "中国北方化学研究院集团有限公司",
+            "productId": 1,
+            "organizationAuthCode": "nocinco",
+            "organizationUserId": 6296977
+        },
+        "35301": {
+            "orgName": "中国北方化学研究院集团有限公司",
+            "productId": 11,
+            "organizationAuthCode": "nocinco",
+            "organizationUserId": 6296977
+        },
+        "26763": {
+            "orgName": "中国北方化学研究院集团有限公司",
+            "productId": 15,
+            "organizationAuthCode": "nocinco",
+            "organizationUserId": 6296977
+        },
+        "26764": {
+            "orgName": "中国北方化学研究院集团有限公司",
+            "productId": 16,
+            "organizationAuthCode": "nocinco",
+            "organizationUserId": 6296977
+        },
+        "34598": {
+            "orgName": "中国北方化学研究院集团有限公司",
+            "productId": 21,
+            "organizationAuthCode": "nocinco",
+            "organizationUserId": 6296977
+        },
+        "58981": {
+            "orgName": "中国北方化学研究院集团有限公司",
+            "productId": 61,
+            "organizationAuthCode": "nocinco",
+            "organizationUserId": 6296977
+        },
+        "62816": {
+            "orgName": "中国北方化学研究院集团有限公司",
+            "productId": 67,
+            "organizationAuthCode": "nocinco",
+            "organizationUserId": 6296977
+        },
+        "25917": {
+            "orgName": "山西中铝华润有限公司",
+            "productId": 1,
+            "organizationAuthCode": "zlhr",
+            "organizationUserId": 6296978
+        },
+        "25928": {
+            "orgName": "中国光大银行总行",
+            "productId": 5,
+            "organizationAuthCode": "gdyh",
+            "organizationUserId": 6296984
+        },
+        "25932": {
+            "orgName": "六安市总工会",
+            "productId": 5,
+            "organizationAuthCode": "lagh",
+            "organizationUserId": 6296985
+        },
+        "46918": {
+            "orgName": "六安市总工会",
+            "productId": 16,
+            "organizationAuthCode": "lagh",
+            "organizationUserId": 6296985
+        },
+        "25935": {
+            "orgName": "中国航空研究院",
+            "productId": 1,
+            "organizationAuthCode": "hkyjy",
+            "organizationUserId": 6296987
+        },
+        "25934": {
+            "orgName": "中国航空研究院",
+            "productId": 5,
+            "organizationAuthCode": "hkyjy",
+            "organizationUserId": 6296987
+        },
+        "28178": {
+            "orgName": "中国邮政集团公司湖南省分公司",
+            "productId": 5,
+            "organizationAuthCode": "hnyzjt",
+            "organizationUserId": 6296988
+        },
+        "36593": {
+            "orgName": "中国邮政集团公司湖南省分公司",
+            "productId": 11,
+            "organizationAuthCode": "hnyzjt",
+            "organizationUserId": 6296988
+        },
+        "31583": {
+            "orgName": "关岭自治县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "gltsg",
+            "organizationUserId": 6296989
+        },
+        "51628": {
+            "orgName": "关岭自治县图书馆",
+            "productId": 3,
+            "organizationAuthCode": "gltsg",
+            "organizationUserId": 6296989
+        },
+        "27711": {
+            "orgName": "关岭自治县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "gltsg",
+            "organizationUserId": 6296989
+        },
+        "47173": {
+            "orgName": "关岭自治县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "gltsg",
+            "organizationUserId": 6296989
+        },
+        "29150": {
+            "orgName": "关岭自治县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "gltsg",
+            "organizationUserId": 6296989
+        },
+        "40357": {
+            "orgName": "关岭自治县图书馆",
+            "productId": 24,
+            "organizationAuthCode": "gltsg",
+            "organizationUserId": 6296989
+        },
+        "53627": {
+            "orgName": "关岭自治县图书馆",
+            "productId": 61,
+            "organizationAuthCode": "gltsg",
+            "organizationUserId": 6296989
+        },
+        "59351": {
+            "orgName": "关岭自治县图书馆",
+            "productId": 62,
+            "organizationAuthCode": "gltsg",
+            "organizationUserId": 6296989
+        },
+        "66574": {
+            "orgName": "关岭自治县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "gltsg",
+            "organizationUserId": 6296989
+        },
+        "60850": {
+            "orgName": "关岭自治县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "gltsg",
+            "organizationUserId": 6296989
+        },
+        "30106": {
+            "orgName": "中煤地质集团有限公司",
+            "productId": 5,
+            "organizationAuthCode": "zmzgs",
+            "organizationUserId": 6296990
+        },
+        "26186": {
+            "orgName": "中央党史和文献研究院",
+            "productId": 13,
+            "organizationAuthCode": "dswx",
+            "organizationUserId": 6296991
+        },
+        "26185": {
+            "orgName": "中央党史和文献研究院",
+            "productId": 15,
+            "organizationAuthCode": "dswx",
+            "organizationUserId": 6296991
+        },
+        "30410": {
+            "orgName": "中央党史和文献研究院",
+            "productId": 16,
+            "organizationAuthCode": "dswx",
+            "organizationUserId": 6296991
+        },
+        "23713": {
+            "orgName": "西京学院图书馆",
+            "productId": 1,
+            "organizationAuthCode": "xjxy-lib",
+            "organizationUserId": 94
+        },
+        "10375": {
+            "orgName": "西京学院图书馆",
+            "productId": 3,
+            "organizationAuthCode": "xjxy-lib",
+            "organizationUserId": 94
+        },
+        "29113": {
+            "orgName": "西京学院图书馆",
+            "productId": 21,
+            "organizationAuthCode": "xjxy-lib",
+            "organizationUserId": 94
+        },
+        "54553": {
+            "orgName": "西京学院图书馆",
+            "productId": 61,
+            "organizationAuthCode": "xjxy-lib",
+            "organizationUserId": 94
+        },
+        "67335": {
+            "orgName": "西京学院图书馆",
+            "productId": 66,
+            "organizationAuthCode": "xjxy-lib",
+            "organizationUserId": 94
+        },
+        "61362": {
+            "orgName": "西京学院图书馆",
+            "productId": 67,
+            "organizationAuthCode": "xjxy-lib",
+            "organizationUserId": 94
+        },
+        "35737": {
+            "orgName": "华电能源股份有限公司",
+            "productId": 11,
+            "organizationAuthCode": "hdxny",
+            "organizationUserId": 6296994
+        },
+        "35739": {
+            "orgName": "华电能源股份有限公司",
+            "productId": 12,
+            "organizationAuthCode": "hdxny",
+            "organizationUserId": 6296994
+        },
+        "35740": {
+            "orgName": "华电能源股份有限公司",
+            "productId": 17,
+            "organizationAuthCode": "hdxny",
+            "organizationUserId": 6296994
+        },
+        "26846": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 3,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "25966": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 5,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "34325": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 11,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "82132": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 12,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "82131": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 17,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "81967": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 19,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "32750": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 21,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "82133": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 24,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "51169": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 54,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "82134": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 55,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "52866": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 57,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "52603": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 62,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "71108": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 66,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "71109": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 67,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "75888": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 79,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "81968": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 89,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "81969": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 90,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "81970": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 91,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "81971": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 92,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "81972": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 93,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "81829": {
+            "orgName": "中国北方工业有限公司",
+            "productId": 94,
+            "organizationAuthCode": "norinco",
+            "organizationUserId": 6296998
+        },
+        "52555": {
+            "orgName": "国家税务总局楚雄彝族自治州税务局",
+            "productId": 1,
+            "organizationAuthCode": "cxds",
+            "organizationUserId": 6296999
+        },
+        "26027": {
+            "orgName": "国家税务总局楚雄彝族自治州税务局",
+            "productId": 3,
+            "organizationAuthCode": "cxds",
+            "organizationUserId": 6296999
+        },
+        "25971": {
+            "orgName": "国家税务总局楚雄彝族自治州税务局",
+            "productId": 5,
+            "organizationAuthCode": "cxds",
+            "organizationUserId": 6296999
+        },
+        "36256": {
+            "orgName": "国家税务总局楚雄彝族自治州税务局",
+            "productId": 11,
+            "organizationAuthCode": "cxds",
+            "organizationUserId": 6296999
+        },
+        "36257": {
+            "orgName": "国家税务总局楚雄彝族自治州税务局",
+            "productId": 12,
+            "organizationAuthCode": "cxds",
+            "organizationUserId": 6296999
+        },
+        "32189": {
+            "orgName": "国家税务总局楚雄彝族自治州税务局",
+            "productId": 19,
+            "organizationAuthCode": "cxds",
+            "organizationUserId": 6296999
+        },
+        "25988": {
+            "orgName": "天津市宁河区总工会",
+            "productId": 5,
+            "organizationAuthCode": "nhxzgh",
+            "organizationUserId": 6297006
+        },
+        "25994": {
+            "orgName": "天津市滨海新区总工会",
+            "productId": 5,
+            "organizationAuthCode": "bhxq",
+            "organizationUserId": 6297008
+        },
+        "55308": {
+            "orgName": "安吉县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "ajxtsg",
+            "organizationUserId": 6297019
+        },
+        "39321": {
+            "orgName": "安吉县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "ajxtsg",
+            "organizationUserId": 6297019
+        },
+        "46080": {
+            "orgName": "安吉县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "ajxtsg",
+            "organizationUserId": 6297019
+        },
+        "40534": {
+            "orgName": "安吉县图书馆",
+            "productId": 24,
+            "organizationAuthCode": "ajxtsg",
+            "organizationUserId": 6297019
+        },
+        "51557": {
+            "orgName": "安吉县图书馆",
+            "productId": 54,
+            "organizationAuthCode": "ajxtsg",
+            "organizationUserId": 6297019
+        },
+        "55309": {
+            "orgName": "安吉县图书馆",
+            "productId": 61,
+            "organizationAuthCode": "ajxtsg",
+            "organizationUserId": 6297019
+        },
+        "65400": {
+            "orgName": "安吉县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "ajxtsg",
+            "organizationUserId": 6297019
+        },
+        "61709": {
+            "orgName": "安吉县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "ajxtsg",
+            "organizationUserId": 6297019
+        },
+        "26048": {
+            "orgName": "广西投资集团有限公司/500强/19819人",
+            "productId": 3,
+            "organizationAuthCode": "gxtzjt",
+            "organizationUserId": 6297020
+        },
+        "26047": {
+            "orgName": "广西投资集团有限公司/500强/19819人",
+            "productId": 5,
+            "organizationAuthCode": "gxtzjt",
+            "organizationUserId": 6297020
+        },
+        "26052": {
+            "orgName": "云南财经职业学院",
+            "productId": 5,
+            "organizationAuthCode": "yncj",
+            "organizationUserId": 6297021
+        },
+        "26061": {
+            "orgName": "昆明文理学院",
+            "productId": 1,
+            "organizationAuthCode": "sdwlxy",
+            "organizationUserId": 6297027
+        },
+        "26060": {
+            "orgName": "昆明文理学院",
+            "productId": 5,
+            "organizationAuthCode": "sdwlxy",
+            "organizationUserId": 6297027
+        },
+        "46548": {
+            "orgName": "昆明文理学院",
+            "productId": 16,
+            "organizationAuthCode": "sdwlxy",
+            "organizationUserId": 6297027
+        },
+        "58822": {
+            "orgName": "昆明文理学院",
+            "productId": 61,
+            "organizationAuthCode": "sdwlxy",
+            "organizationUserId": 6297027
+        },
+        "66445": {
+            "orgName": "昆明文理学院",
+            "productId": 66,
+            "organizationAuthCode": "sdwlxy",
+            "organizationUserId": 6297027
+        },
+        "62781": {
+            "orgName": "昆明文理学院",
+            "productId": 67,
+            "organizationAuthCode": "sdwlxy",
+            "organizationUserId": 6297027
+        },
+        "26066": {
+            "orgName": "广西北部湾投资集团有限公司",
+            "productId": 5,
+            "organizationAuthCode": "bbwtz",
+            "organizationUserId": 6297029
+        },
+        "26079": {
+            "orgName": "大连工程学院",
+            "productId": 1,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "49476": {
+            "orgName": "大连工程学院",
+            "productId": 3,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "41479": {
+            "orgName": "大连工程学院",
+            "productId": 5,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "41480": {
+            "orgName": "大连工程学院",
+            "productId": 11,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "31459": {
+            "orgName": "大连工程学院",
+            "productId": 12,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "44640": {
+            "orgName": "大连工程学院",
+            "productId": 13,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "44639": {
+            "orgName": "大连工程学院",
+            "productId": 16,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "31460": {
+            "orgName": "大连工程学院",
+            "productId": 17,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "31820": {
+            "orgName": "大连工程学院",
+            "productId": 21,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "67432": {
+            "orgName": "大连工程学院",
+            "productId": 66,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "77438": {
+            "orgName": "大连工程学院",
+            "productId": 89,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "77434": {
+            "orgName": "大连工程学院",
+            "productId": 90,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "77435": {
+            "orgName": "大连工程学院",
+            "productId": 91,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "77436": {
+            "orgName": "大连工程学院",
+            "productId": 92,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "77437": {
+            "orgName": "大连工程学院",
+            "productId": 93,
+            "organizationAuthCode": "dllgcs",
+            "organizationUserId": 6297034
+        },
+        "30448": {
+            "orgName": "天津医学高等专科学校图书馆",
+            "productId": 5,
+            "organizationAuthCode": "tjyzlib",
+            "organizationUserId": 6297035
+        },
+        "50882": {
+            "orgName": "天津医学高等专科学校图书馆",
+            "productId": 11,
+            "organizationAuthCode": "tjyzlib",
+            "organizationUserId": 6297035
+        },
+        "31668": {
+            "orgName": "天津医学高等专科学校图书馆",
+            "productId": 19,
+            "organizationAuthCode": "tjyzlib",
+            "organizationUserId": 6297035
+        },
+        "35426": {
+            "orgName": "天津医学高等专科学校图书馆",
+            "productId": 24,
+            "organizationAuthCode": "tjyzlib",
+            "organizationUserId": 6297035
+        },
+        "69469": {
+            "orgName": "天津医学高等专科学校图书馆",
+            "productId": 66,
+            "organizationAuthCode": "tjyzlib",
+            "organizationUserId": 6297035
+        },
+        "69470": {
+            "orgName": "天津医学高等专科学校图书馆",
+            "productId": 67,
+            "organizationAuthCode": "tjyzlib",
+            "organizationUserId": 6297035
+        },
+        "26087": {
+            "orgName": "成都市成华区总工会",
+            "productId": 1,
+            "organizationAuthCode": "chqzgh",
+            "organizationUserId": 6297036
+        },
+        "26092": {
+            "orgName": "福安市总工会",
+            "productId": 5,
+            "organizationAuthCode": "fagh",
+            "organizationUserId": 6297038
+        },
+        "26094": {
+            "orgName": "惠安县总工会",
+            "productId": 5,
+            "organizationAuthCode": "hagh",
+            "organizationUserId": 6297039
+        },
+        "26101": {
+            "orgName": "大唐洛阳热电有限责任公司",
+            "productId": 1,
+            "organizationAuthCode": "dtlrgh",
+            "organizationUserId": 6297042
+        },
+        "35527": {
+            "orgName": "大唐洛阳热电有限责任公司",
+            "productId": 11,
+            "organizationAuthCode": "dtlrgh",
+            "organizationUserId": 6297042
+        },
+        "26102": {
+            "orgName": "江苏扬建集团有限公司",
+            "productId": 5,
+            "organizationAuthCode": "jsyjjt",
+            "organizationUserId": 6297043
+        },
+        "35589": {
+            "orgName": "江苏扬建集团有限公司",
+            "productId": 11,
+            "organizationAuthCode": "jsyjjt",
+            "organizationUserId": 6297043
+        },
+        "26119": {
+            "orgName": "中国水电建设集团崇信发电有限责任公司",
+            "productId": 5,
+            "organizationAuthCode": "cxfdgs",
+            "organizationUserId": 6297047
+        },
+        "20440": {
+            "orgName": "宁陕县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "nsxtsg",
+            "organizationUserId": 6291034
+        },
+        "45173": {
+            "orgName": "宁陕县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "nsxtsg",
+            "organizationUserId": 6291034
+        },
+        "32199": {
+            "orgName": "宁陕县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "nsxtsg",
+            "organizationUserId": 6291034
+        },
+        "26702": {
+            "orgName": "中国煤炭科工集团有限公司",
+            "productId": 1,
+            "organizationAuthCode": "ccteg",
+            "organizationUserId": 6297048
+        },
+        "35295": {
+            "orgName": "中国煤炭科工集团有限公司",
+            "productId": 11,
+            "organizationAuthCode": "ccteg",
+            "organizationUserId": 6297048
+        },
+        "86621": {
+            "orgName": "中国煤炭科工集团有限公司",
+            "productId": 12,
+            "organizationAuthCode": "ccteg",
+            "organizationUserId": 6297048
+        },
+        "86622": {
+            "orgName": "中国煤炭科工集团有限公司",
+            "productId": 17,
+            "organizationAuthCode": "ccteg",
+            "organizationUserId": 6297048
+        },
+        "86620": {
+            "orgName": "中国煤炭科工集团有限公司",
+            "productId": 19,
+            "organizationAuthCode": "ccteg",
+            "organizationUserId": 6297048
+        },
+        "28477": {
+            "orgName": "中国煤炭科工集团有限公司",
+            "productId": 21,
+            "organizationAuthCode": "ccteg",
+            "organizationUserId": 6297048
+        },
+        "86623": {
+            "orgName": "中国煤炭科工集团有限公司",
+            "productId": 24,
+            "organizationAuthCode": "ccteg",
+            "organizationUserId": 6297048
+        },
+        "59729": {
+            "orgName": "中国煤炭科工集团有限公司",
+            "productId": 61,
+            "organizationAuthCode": "ccteg",
+            "organizationUserId": 6297048
+        },
+        "68554": {
+            "orgName": "中国煤炭科工集团有限公司",
+            "productId": 66,
+            "organizationAuthCode": "ccteg",
+            "organizationUserId": 6297048
+        },
+        "62956": {
+            "orgName": "中国煤炭科工集团有限公司",
+            "productId": 67,
+            "organizationAuthCode": "ccteg",
+            "organizationUserId": 6297048
+        },
+        "81264": {
+            "orgName": "中国煤炭科工集团有限公司",
+            "productId": 94,
+            "organizationAuthCode": "ccteg",
+            "organizationUserId": 6297048
+        },
+        "27708": {
+            "orgName": "中国工商银行股份有限公司江苏省分行",
+            "productId": 5,
+            "organizationAuthCode": "jsgh",
+            "organizationUserId": 6297052
+        },
+        "21861": {
+            "orgName": "柳州职业技术大学",
+            "productId": 1,
+            "organizationAuthCode": "lzzy",
+            "organizationUserId": 6285737
+        },
+        "9600": {
+            "orgName": "柳州职业技术大学",
+            "productId": 3,
+            "organizationAuthCode": "lzzy",
+            "organizationUserId": 6285737
+        },
+        "37764": {
+            "orgName": "柳州职业技术大学",
+            "productId": 5,
+            "organizationAuthCode": "lzzy",
+            "organizationUserId": 6285737
+        },
+        "35608": {
+            "orgName": "柳州职业技术大学",
+            "productId": 11,
+            "organizationAuthCode": "lzzy",
+            "organizationUserId": 6285737
+        },
+        "47359": {
+            "orgName": "柳州职业技术大学",
+            "productId": 16,
+            "organizationAuthCode": "lzzy",
+            "organizationUserId": 6285737
+        },
+        "31407": {
+            "orgName": "柳州职业技术大学",
+            "productId": 21,
+            "organizationAuthCode": "lzzy",
+            "organizationUserId": 6285737
+        },
+        "66247": {
+            "orgName": "柳州职业技术大学",
+            "productId": 66,
+            "organizationAuthCode": "lzzy",
+            "organizationUserId": 6285737
+        },
+        "24486": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 1,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "48569": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 5,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "35102": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 11,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "44936": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 16,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "83338": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 19,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "31627": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 21,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "48259": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 22,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "58269": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 61,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "65523": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 66,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "62664": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 67,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "79280": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 89,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "79281": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 90,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "79282": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 91,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "79283": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 92,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "79284": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 93,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "82362": {
+            "orgName": "上海师范大学天华学院图书馆",
+            "productId": 98,
+            "organizationAuthCode": "thxytsg",
+            "organizationUserId": 6295040
+        },
+        "29837": {
+            "orgName": "中石化宁波工程公司工会",
+            "productId": 1,
+            "organizationAuthCode": "nggh",
+            "organizationUserId": 6297072
+        },
+        "26249": {
+            "orgName": "中石化宁波工程公司工会",
+            "productId": 3,
+            "organizationAuthCode": "nggh",
+            "organizationUserId": 6297072
+        },
+        "35439": {
+            "orgName": "中石化宁波工程公司工会",
+            "productId": 11,
+            "organizationAuthCode": "nggh",
+            "organizationUserId": 6297072
+        },
+        "60107": {
+            "orgName": "中石化宁波工程公司工会",
+            "productId": 61,
+            "organizationAuthCode": "nggh",
+            "organizationUserId": 6297072
+        },
+        "75786": {
+            "orgName": "中石化宁波工程公司工会",
+            "productId": 66,
+            "organizationAuthCode": "nggh",
+            "organizationUserId": 6297072
+        },
+        "63016": {
+            "orgName": "中石化宁波工程公司工会",
+            "productId": 67,
+            "organizationAuthCode": "nggh",
+            "organizationUserId": 6297072
+        },
+        "75787": {
+            "orgName": "中石化宁波工程公司工会",
+            "productId": 79,
+            "organizationAuthCode": "nggh",
+            "organizationUserId": 6297072
+        },
+        "26228": {
+            "orgName": "交通银行武汉金融服务中心",
+            "productId": 3,
+            "organizationAuthCode": "jhwf",
+            "organizationUserId": 6297076
+        },
+        "29264": {
+            "orgName": "中国工商银行福建省分行",
+            "productId": 3,
+            "organizationAuthCode": "fjghgh",
+            "organizationUserId": 6297082
+        },
+        "26237": {
+            "orgName": "中国工商银行福建省分行",
+            "productId": 5,
+            "organizationAuthCode": "fjghgh",
+            "organizationUserId": 6297082
+        },
+        "28999": {
+            "orgName": "中国工商银行福建省分行",
+            "productId": 21,
+            "organizationAuthCode": "fjghgh",
+            "organizationUserId": 6297082
+        },
+        "26246": {
+            "orgName": "陕西钢铁集团有限公司",
+            "productId": 5,
+            "organizationAuthCode": "sgjtgh",
+            "organizationUserId": 6297083
+        },
+        "41264": {
+            "orgName": "陕西钢铁集团有限公司",
+            "productId": 11,
+            "organizationAuthCode": "sgjtgh",
+            "organizationUserId": 6297083
+        },
+        "44058": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 5,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "44057": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 11,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "26243": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 12,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "47881": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 13,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "31579": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 16,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "47904": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 17,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "86388": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 19,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "44059": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 21,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "68023": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 54,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "59395": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 61,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "59408": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 62,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "68768": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 66,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "62893": {
+            "orgName": "中共武汉市委党校(武汉市行政学院)（武汉社区干部学院）",
+            "productId": 67,
+            "organizationAuthCode": "whsdx",
+            "organizationUserId": 6295514
+        },
+        "26261": {
+            "orgName": "湘潭医卫职业技术学院图书馆",
+            "productId": 1,
+            "organizationAuthCode": "xtzyjsxy",
+            "organizationUserId": 6297088
+        },
+        "86613": {
+            "orgName": "湘潭医卫职业技术学院图书馆",
+            "productId": 5,
+            "organizationAuthCode": "xtzyjsxy",
+            "organizationUserId": 6297088
+        },
+        "84965": {
+            "orgName": "湘潭医卫职业技术学院图书馆",
+            "productId": 19,
+            "organizationAuthCode": "xtzyjsxy",
+            "organizationUserId": 6297088
+        },
+        "84966": {
+            "orgName": "湘潭医卫职业技术学院图书馆",
+            "productId": 66,
+            "organizationAuthCode": "xtzyjsxy",
+            "organizationUserId": 6297088
+        },
+        "84970": {
+            "orgName": "湘潭医卫职业技术学院图书馆",
+            "productId": 93,
+            "organizationAuthCode": "xtzyjsxy",
+            "organizationUserId": 6297088
+        },
+        "84969": {
+            "orgName": "湘潭医卫职业技术学院图书馆",
+            "productId": 98,
+            "organizationAuthCode": "xtzyjsxy",
+            "organizationUserId": 6297088
+        },
+        "27476": {
+            "orgName": "天津高速公路集团有限公司",
+            "productId": 5,
+            "organizationAuthCode": "gsjt",
+            "organizationUserId": 6297098
+        },
+        "75545": {
+            "orgName": "天津高速公路集团有限公司",
+            "productId": 19,
+            "organizationAuthCode": "gsjt",
+            "organizationUserId": 6297098
+        },
+        "45767": {
+            "orgName": "天津高速公路集团有限公司",
+            "productId": 21,
+            "organizationAuthCode": "gsjt",
+            "organizationUserId": 6297098
+        },
+        "59784": {
+            "orgName": "天津高速公路集团有限公司",
+            "productId": 61,
+            "organizationAuthCode": "gsjt",
+            "organizationUserId": 6297098
+        },
+        "68672": {
+            "orgName": "天津高速公路集团有限公司",
+            "productId": 66,
+            "organizationAuthCode": "gsjt",
+            "organizationUserId": 6297098
+        },
+        "62966": {
+            "orgName": "天津高速公路集团有限公司",
+            "productId": 67,
+            "organizationAuthCode": "gsjt",
+            "organizationUserId": 6297098
+        },
+        "75437": {
+            "orgName": "天津高速公路集团有限公司",
+            "productId": 79,
+            "organizationAuthCode": "gsjt",
+            "organizationUserId": 6297098
+        },
+        "75546": {
+            "orgName": "天津高速公路集团有限公司",
+            "productId": 84,
+            "organizationAuthCode": "gsjt",
+            "organizationUserId": 6297098
+        },
+        "78508": {
+            "orgName": "天津高速公路集团有限公司",
+            "productId": 94,
+            "organizationAuthCode": "gsjt",
+            "organizationUserId": 6297098
+        },
+        "26708": {
+            "orgName": "中国长城工业集团有限公司",
+            "productId": 5,
+            "organizationAuthCode": "alitzgsw",
+            "organizationUserId": 6297107
+        },
+        "35294": {
+            "orgName": "中国长城工业集团有限公司",
+            "productId": 11,
+            "organizationAuthCode": "alitzgsw",
+            "organizationUserId": 6297107
+        },
+        "59728": {
+            "orgName": "中国长城工业集团有限公司",
+            "productId": 61,
+            "organizationAuthCode": "alitzgsw",
+            "organizationUserId": 6297107
+        },
+        "68603": {
+            "orgName": "中国长城工业集团有限公司",
+            "productId": 66,
+            "organizationAuthCode": "alitzgsw",
+            "organizationUserId": 6297107
+        },
+        "62955": {
+            "orgName": "中国长城工业集团有限公司",
+            "productId": 67,
+            "organizationAuthCode": "alitzgsw",
+            "organizationUserId": 6297107
+        },
+        "26710": {
+            "orgName": "中国建筑第七工程局有限公司华北公司",
+            "productId": 5,
+            "organizationAuthCode": "hbgs",
+            "organizationUserId": 6297108
+        },
+        "26749": {
+            "orgName": "中国建筑第七工程局有限公司华北公司",
+            "productId": 13,
+            "organizationAuthCode": "hbgs",
+            "organizationUserId": 6297108
+        },
+        "26747": {
+            "orgName": "中国建筑第七工程局有限公司华北公司",
+            "productId": 15,
+            "organizationAuthCode": "hbgs",
+            "organizationUserId": 6297108
+        },
+        "26748": {
+            "orgName": "中国建筑第七工程局有限公司华北公司",
+            "productId": 16,
+            "organizationAuthCode": "hbgs",
+            "organizationUserId": 6297108
+        },
+        "26715": {
+            "orgName": "中国农业发展银行",
+            "productId": 5,
+            "organizationAuthCode": "zgnfh",
+            "organizationUserId": 6297109
+        },
+        "26723": {
+            "orgName": "中建一局集团第二建筑有限公司",
+            "productId": 1,
+            "organizationAuthCode": "cscec1b2",
+            "organizationUserId": 6297111
+        },
+        "26725": {
+            "orgName": "国家开发投资集团有限公司",
+            "productId": 5,
+            "organizationAuthCode": "gtjt",
+            "organizationUserId": 6297112
+        },
+        "32889": {
+            "orgName": "吉林警察学院图书馆",
+            "productId": 3,
+            "organizationAuthCode": "jljcxy",
+            "organizationUserId": 6297116
+        },
+        "38063": {
+            "orgName": "吉林警察学院图书馆",
+            "productId": 5,
+            "organizationAuthCode": "jljcxy",
+            "organizationUserId": 6297116
+        },
+        "35738": {
+            "orgName": "吉林警察学院图书馆",
+            "productId": 11,
+            "organizationAuthCode": "jljcxy",
+            "organizationUserId": 6297116
+        },
+        "27510": {
+            "orgName": "吉林警察学院图书馆",
+            "productId": 12,
+            "organizationAuthCode": "jljcxy",
+            "organizationUserId": 6297116
+        },
+        "45862": {
+            "orgName": "吉林警察学院图书馆",
+            "productId": 16,
+            "organizationAuthCode": "jljcxy",
+            "organizationUserId": 6297116
+        },
+        "27509": {
+            "orgName": "吉林警察学院图书馆",
+            "productId": 17,
+            "organizationAuthCode": "jljcxy",
+            "organizationUserId": 6297116
+        },
+        "85783": {
+            "orgName": "吉林警察学院图书馆",
+            "productId": 19,
+            "organizationAuthCode": "jljcxy",
+            "organizationUserId": 6297116
+        },
+        "57883": {
+            "orgName": "吉林警察学院图书馆",
+            "productId": 61,
+            "organizationAuthCode": "jljcxy",
+            "organizationUserId": 6297116
+        },
+        "67064": {
+            "orgName": "吉林警察学院图书馆",
+            "productId": 66,
+            "organizationAuthCode": "jljcxy",
+            "organizationUserId": 6297116
+        },
+        "62560": {
+            "orgName": "吉林警察学院图书馆",
+            "productId": 67,
+            "organizationAuthCode": "jljcxy",
+            "organizationUserId": 6297116
+        },
+        "85785": {
+            "orgName": "吉林警察学院图书馆",
+            "productId": 93,
+            "organizationAuthCode": "jljcxy",
+            "organizationUserId": 6297116
+        },
+        "85784": {
+            "orgName": "吉林警察学院图书馆",
+            "productId": 98,
+            "organizationAuthCode": "jljcxy",
+            "organizationUserId": 6297116
+        },
+        "26854": {
+            "orgName": "湖北省交通运输厅鄂西高速公路管理处",
+            "productId": 5,
+            "organizationAuthCode": "exgs",
+            "organizationUserId": 6297121
+        },
+        "26782": {
+            "orgName": "中共盘锦市委党校",
+            "productId": 12,
+            "organizationAuthCode": "pjdx",
+            "organizationUserId": 6297125
+        },
+        "27298": {
+            "orgName": "中共盘锦市委党校",
+            "productId": 17,
+            "organizationAuthCode": "pjdx",
+            "organizationUserId": 6297125
+        },
+        "28922": {
+            "orgName": "中共盘锦市委党校",
+            "productId": 21,
+            "organizationAuthCode": "pjdx",
+            "organizationUserId": 6297125
+        },
+        "26794": {
+            "orgName": "北林区图书馆",
+            "productId": 1,
+            "organizationAuthCode": "blqtsg",
+            "organizationUserId": 6297128
+        },
+        "26792": {
+            "orgName": "北林区图书馆",
+            "productId": 5,
+            "organizationAuthCode": "blqtsg",
+            "organizationUserId": 6297128
+        },
+        "42280": {
+            "orgName": "北林区图书馆",
+            "productId": 13,
+            "organizationAuthCode": "blqtsg",
+            "organizationUserId": 6297128
+        },
+        "42281": {
+            "orgName": "北林区图书馆",
+            "productId": 15,
+            "organizationAuthCode": "blqtsg",
+            "organizationUserId": 6297128
+        },
+        "42282": {
+            "orgName": "北林区图书馆",
+            "productId": 16,
+            "organizationAuthCode": "blqtsg",
+            "organizationUserId": 6297128
+        },
+        "43418": {
+            "orgName": "北林区图书馆",
+            "productId": 19,
+            "organizationAuthCode": "blqtsg",
+            "organizationUserId": 6297128
+        },
+        "30339": {
+            "orgName": "北林区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "blqtsg",
+            "organizationUserId": 6297128
+        },
+        "43308": {
+            "orgName": "北林区图书馆",
+            "productId": 24,
+            "organizationAuthCode": "blqtsg",
+            "organizationUserId": 6297128
+        },
+        "42283": {
+            "orgName": "北林区图书馆",
+            "productId": 26,
+            "organizationAuthCode": "blqtsg",
+            "organizationUserId": 6297128
+        },
+        "71314": {
+            "orgName": "北林区图书馆",
+            "productId": 66,
+            "organizationAuthCode": "blqtsg",
+            "organizationUserId": 6297128
+        },
+        "71315": {
+            "orgName": "北林区图书馆",
+            "productId": 67,
+            "organizationAuthCode": "blqtsg",
+            "organizationUserId": 6297128
+        },
+        "26892": {
+            "orgName": "洪洞县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "30641": {
+            "orgName": "洪洞县图书馆",
+            "productId": 10,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "26808": {
+            "orgName": "洪洞县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "26890": {
+            "orgName": "洪洞县图书馆",
+            "productId": 12,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "46042": {
+            "orgName": "洪洞县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "26891": {
+            "orgName": "洪洞县图书馆",
+            "productId": 17,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "30050": {
+            "orgName": "洪洞县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "40762": {
+            "orgName": "洪洞县图书馆",
+            "productId": 24,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "52278": {
+            "orgName": "洪洞县图书馆",
+            "productId": 39,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "52650": {
+            "orgName": "洪洞县图书馆",
+            "productId": 54,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "52765": {
+            "orgName": "洪洞县图书馆",
+            "productId": 61,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "65989": {
+            "orgName": "洪洞县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "60766": {
+            "orgName": "洪洞县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "htxtsg",
+            "organizationUserId": 6297131
+        },
+        "26814": {
+            "orgName": "泸州市总工会",
+            "productId": 5,
+            "organizationAuthCode": "lzsz",
+            "organizationUserId": 6297133
+        },
+        "26826": {
+            "orgName": "北京市发展和改革委员会",
+            "productId": 1,
+            "organizationAuthCode": "bjfgw",
+            "organizationUserId": 6297136
+        },
+        "35314": {
+            "orgName": "北京市发展和改革委员会",
+            "productId": 11,
+            "organizationAuthCode": "bjfgw",
+            "organizationUserId": 6297136
+        },
+        "63674": {
+            "orgName": "北京市发展和改革委员会",
+            "productId": 19,
+            "organizationAuthCode": "bjfgw",
+            "organizationUserId": 6297136
+        },
+        "38240": {
+            "orgName": "北京市发展和改革委员会",
+            "productId": 21,
+            "organizationAuthCode": "bjfgw",
+            "organizationUserId": 6297136
+        },
+        "60689": {
+            "orgName": "北京市发展和改革委员会",
+            "productId": 61,
+            "organizationAuthCode": "bjfgw",
+            "organizationUserId": 6297136
+        },
+        "68615": {
+            "orgName": "北京市发展和改革委员会",
+            "productId": 66,
+            "organizationAuthCode": "bjfgw",
+            "organizationUserId": 6297136
+        },
+        "63138": {
+            "orgName": "北京市发展和改革委员会",
+            "productId": 67,
+            "organizationAuthCode": "bjfgw",
+            "organizationUserId": 6297136
+        },
+        "75433": {
+            "orgName": "北京市发展和改革委员会",
+            "productId": 79,
+            "organizationAuthCode": "bjfgw",
+            "organizationUserId": 6297136
+        },
+        "75436": {
+            "orgName": "北京市发展和改革委员会",
+            "productId": 84,
+            "organizationAuthCode": "bjfgw",
+            "organizationUserId": 6297136
+        },
+        "76975": {
+            "orgName": "北京市发展和改革委员会",
+            "productId": 94,
+            "organizationAuthCode": "bjfgw",
+            "organizationUserId": 6297136
+        },
+        "26845": {
+            "orgName": "新疆广汇实业股份有限公司/500强/68705人",
+            "productId": 5,
+            "organizationAuthCode": "ghny",
+            "organizationUserId": 6297143
+        },
+        "21485": {
+            "orgName": "博看网（公司）",
+            "productId": 1,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "37425": {
+            "orgName": "博看网（公司）",
+            "productId": 5,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "55195": {
+            "orgName": "博看网（公司）",
+            "productId": 13,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "55196": {
+            "orgName": "博看网（公司）",
+            "productId": 16,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "38805": {
+            "orgName": "博看网（公司）",
+            "productId": 19,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "72151": {
+            "orgName": "博看网（公司）",
+            "productId": 54,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "52627": {
+            "orgName": "博看网（公司）",
+            "productId": 62,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "72152": {
+            "orgName": "博看网（公司）",
+            "productId": 66,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "81869": {
+            "orgName": "博看网（公司）",
+            "productId": 90,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "81870": {
+            "orgName": "博看网（公司）",
+            "productId": 91,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "81872": {
+            "orgName": "博看网（公司）",
+            "productId": 92,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "81871": {
+            "orgName": "博看网（公司）",
+            "productId": 93,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "81813": {
+            "orgName": "博看网（公司）",
+            "productId": 98,
+            "organizationAuthCode": "jgtest3",
+            "organizationUserId": 6293143
+        },
+        "27474": {
+            "orgName": "中央文化和旅游管理干部学院",
+            "productId": 3,
+            "organizationAuthCode": "caca",
+            "organizationUserId": 6297144
+        },
+        "48283": {
+            "orgName": "中央文化和旅游管理干部学院",
+            "productId": 13,
+            "organizationAuthCode": "caca",
+            "organizationUserId": 6297144
+        },
+        "46401": {
+            "orgName": "中央文化和旅游管理干部学院",
+            "productId": 16,
+            "organizationAuthCode": "caca",
+            "organizationUserId": 6297144
+        },
+        "49991": {
+            "orgName": "达州市宣汉县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "xhxlib",
+            "organizationUserId": 6297146
+        },
+        "48197": {
+            "orgName": "达州市宣汉县图书馆",
+            "productId": 3,
+            "organizationAuthCode": "xhxlib",
+            "organizationUserId": 6297146
+        },
+        "37192": {
+            "orgName": "达州市宣汉县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "xhxlib",
+            "organizationUserId": 6297146
+        },
+        "48179": {
+            "orgName": "达州市宣汉县图书馆",
+            "productId": 14,
+            "organizationAuthCode": "xhxlib",
+            "organizationUserId": 6297146
+        },
+        "45025": {
+            "orgName": "达州市宣汉县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "xhxlib",
+            "organizationUserId": 6297146
+        },
+        "40272": {
+            "orgName": "达州市宣汉县图书馆",
+            "productId": 24,
+            "organizationAuthCode": "xhxlib",
+            "organizationUserId": 6297146
+        },
+        "54997": {
+            "orgName": "达州市宣汉县图书馆",
+            "productId": 61,
+            "organizationAuthCode": "xhxlib",
+            "organizationUserId": 6297146
+        },
+        "68221": {
+            "orgName": "达州市宣汉县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "xhxlib",
+            "organizationUserId": 6297146
+        },
+        "61576": {
+            "orgName": "达州市宣汉县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "xhxlib",
+            "organizationUserId": 6297146
+        },
+        "26864": {
+            "orgName": "北京联合大学师范学院图书馆",
+            "productId": 5,
+            "organizationAuthCode": "blsf",
+            "organizationUserId": 6297147
+        },
+        "26922": {
+            "orgName": "昌河飞机工业（集团）有限公司",
+            "productId": 1,
+            "organizationAuthCode": "cfgh",
+            "organizationUserId": 6297156
+        },
+        "26924": {
+            "orgName": "昌河飞机工业（集团）有限公司",
+            "productId": 5,
+            "organizationAuthCode": "cfgh",
+            "organizationUserId": 6297156
+        },
+        "28358": {
+            "orgName": "昌河飞机工业（集团）有限公司",
+            "productId": 21,
+            "organizationAuthCode": "cfgh",
+            "organizationUserId": 6297156
+        },
+        "75841": {
+            "orgName": "昌河飞机工业（集团）有限公司",
+            "productId": 66,
+            "organizationAuthCode": "cfgh",
+            "organizationUserId": 6297156
+        },
+        "85043": {
+            "orgName": "昌河飞机工业（集团）有限公司",
+            "productId": 94,
+            "organizationAuthCode": "cfgh",
+            "organizationUserId": 6297156
+        },
+        "27032": {
+            "orgName": "中央党校财务行政管理局",
+            "productId": 1,
+            "organizationAuthCode": "dxcw",
+            "organizationUserId": 6297157
+        },
+        "27090": {
+            "orgName": "中央党校财务行政管理局",
+            "productId": 5,
+            "organizationAuthCode": "dxcw",
+            "organizationUserId": 6297157
+        },
+        "26928": {
+            "orgName": "中央党校财务行政管理局",
+            "productId": 15,
+            "organizationAuthCode": "dxcw",
+            "organizationUserId": 6297157
+        },
+        "26926": {
+            "orgName": "中央党校财务行政管理局",
+            "productId": 16,
+            "organizationAuthCode": "dxcw",
+            "organizationUserId": 6297157
+        },
+        "22886": {
+            "orgName": "北华航天工业学院图书馆",
+            "productId": 1,
+            "organizationAuthCode": "bhht",
+            "organizationUserId": 4132
+        },
+        "8281": {
+            "orgName": "北华航天工业学院图书馆",
+            "productId": 3,
+            "organizationAuthCode": "bhht",
+            "organizationUserId": 4132
+        },
+        "18179": {
+            "orgName": "北华航天工业学院图书馆",
+            "productId": 5,
+            "organizationAuthCode": "bhht",
+            "organizationUserId": 4132
+        },
+        "26955": {
+            "orgName": "中国石油天然气股份有限公司重庆销售分公司",
+            "productId": 5,
+            "organizationAuthCode": "cqxs",
+            "organizationUserId": 6297163
+        },
+        "27589": {
+            "orgName": "兰州市红古区组织部",
+            "productId": 13,
+            "organizationAuthCode": "hgdj",
+            "organizationUserId": 6297164
+        },
+        "33175": {
+            "orgName": "莲都区图书馆",
+            "productId": 1,
+            "organizationAuthCode": "ldlib",
+            "organizationUserId": 6297166
+        },
+        "29151": {
+            "orgName": "莲都区图书馆",
+            "productId": 11,
+            "organizationAuthCode": "ldlib",
+            "organizationUserId": 6297166
+        },
+        "46104": {
+            "orgName": "莲都区图书馆",
+            "productId": 16,
+            "organizationAuthCode": "ldlib",
+            "organizationUserId": 6297166
+        },
+        "33176": {
+            "orgName": "莲都区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "ldlib",
+            "organizationUserId": 6297166
+        },
+        "40228": {
+            "orgName": "莲都区图书馆",
+            "productId": 24,
+            "organizationAuthCode": "ldlib",
+            "organizationUserId": 6297166
+        },
+        "55323": {
+            "orgName": "莲都区图书馆",
+            "productId": 61,
+            "organizationAuthCode": "ldlib",
+            "organizationUserId": 6297166
+        },
+        "65313": {
+            "orgName": "莲都区图书馆",
+            "productId": 66,
+            "organizationAuthCode": "ldlib",
+            "organizationUserId": 6297166
+        },
+        "61719": {
+            "orgName": "莲都区图书馆",
+            "productId": 67,
+            "organizationAuthCode": "ldlib",
+            "organizationUserId": 6297166
+        },
+        "85538": {
+            "orgName": "莲都区图书馆",
+            "productId": 93,
+            "organizationAuthCode": "ldlib",
+            "organizationUserId": 6297166
+        },
+        "85537": {
+            "orgName": "莲都区图书馆",
+            "productId": 98,
+            "organizationAuthCode": "ldlib",
+            "organizationUserId": 6297166
+        },
+        "27003": {
+            "orgName": "江西省省属国有企业资产经营（控股）有限公司",
+            "productId": 1,
+            "organizationAuthCode": "jxs",
+            "organizationUserId": 6297171
+        },
+        "26998": {
+            "orgName": "丹阳市总工会",
+            "productId": 5,
+            "organizationAuthCode": "dysgh",
+            "organizationUserId": 6297173
+        },
+        "27000": {
+            "orgName": "四川华电金川水电开发有限公司",
+            "productId": 1,
+            "organizationAuthCode": "schdjc",
+            "organizationUserId": 6297174
+        },
+        "38057": {
+            "orgName": "中国人民银行图书馆",
+            "productId": 5,
+            "organizationAuthCode": "jrpxzx",
+            "organizationUserId": 6297177
+        },
+        "81518": {
+            "orgName": "中国人民银行图书馆",
+            "productId": 19,
+            "organizationAuthCode": "jrpxzx",
+            "organizationUserId": 6297177
+        },
+        "74999": {
+            "orgName": "中国人民银行图书馆",
+            "productId": 66,
+            "organizationAuthCode": "jrpxzx",
+            "organizationUserId": 6297177
+        },
+        "64364": {
+            "orgName": "介休市图书馆",
+            "productId": 1,
+            "organizationAuthCode": "jxslib",
+            "organizationUserId": 6297180
+        },
+        "27040": {
+            "orgName": "介休市图书馆",
+            "productId": 11,
+            "organizationAuthCode": "jxslib",
+            "organizationUserId": 6297180
+        },
+        "27042": {
+            "orgName": "介休市图书馆",
+            "productId": 12,
+            "organizationAuthCode": "jxslib",
+            "organizationUserId": 6297180
+        },
+        "46028": {
+            "orgName": "介休市图书馆",
+            "productId": 16,
+            "organizationAuthCode": "jxslib",
+            "organizationUserId": 6297180
+        },
+        "40577": {
+            "orgName": "介休市图书馆",
+            "productId": 24,
+            "organizationAuthCode": "jxslib",
+            "organizationUserId": 6297180
+        },
+        "64366": {
+            "orgName": "介休市图书馆",
+            "productId": 61,
+            "organizationAuthCode": "jxslib",
+            "organizationUserId": 6297180
+        },
+        "67189": {
+            "orgName": "介休市图书馆",
+            "productId": 66,
+            "organizationAuthCode": "jxslib",
+            "organizationUserId": 6297180
+        },
+        "64365": {
+            "orgName": "介休市图书馆",
+            "productId": 67,
+            "organizationAuthCode": "jxslib",
+            "organizationUserId": 6297180
+        },
+        "27071": {
+            "orgName": "中国诚通控股集团有限公司",
+            "productId": 5,
+            "organizationAuthCode": "cct",
+            "organizationUserId": 6297182
+        },
+        "68009": {
+            "orgName": "中国诚通控股集团有限公司",
+            "productId": 61,
+            "organizationAuthCode": "cct",
+            "organizationUserId": 6297182
+        },
+        "68010": {
+            "orgName": "中国诚通控股集团有限公司",
+            "productId": 66,
+            "organizationAuthCode": "cct",
+            "organizationUserId": 6297182
+        },
+        "68008": {
+            "orgName": "中国诚通控股集团有限公司",
+            "productId": 67,
+            "organizationAuthCode": "cct",
+            "organizationUserId": 6297182
+        },
+        "75904": {
+            "orgName": "中国诚通控股集团有限公司",
+            "productId": 79,
+            "organizationAuthCode": "cct",
+            "organizationUserId": 6297182
+        },
+        "81617": {
+            "orgName": "中国诚通控股集团有限公司",
+            "productId": 94,
+            "organizationAuthCode": "cct",
+            "organizationUserId": 6297182
+        },
+        "69197": {
+            "orgName": "河北环境工程学院",
+            "productId": 1,
+            "organizationAuthCode": "hbhj",
+            "organizationUserId": 6296950
+        },
+        "25817": {
+            "orgName": "河北环境工程学院",
+            "productId": 3,
+            "organizationAuthCode": "hbhj",
+            "organizationUserId": 6296950
+        },
+        "69040": {
+            "orgName": "河北环境工程学院",
+            "productId": 5,
+            "organizationAuthCode": "hbhj",
+            "organizationUserId": 6296950
+        },
+        "69041": {
+            "orgName": "河北环境工程学院",
+            "productId": 61,
+            "organizationAuthCode": "hbhj",
+            "organizationUserId": 6296950
+        },
+        "66911": {
+            "orgName": "河北环境工程学院",
+            "productId": 66,
+            "organizationAuthCode": "hbhj",
+            "organizationUserId": 6296950
+        },
+        "69492": {
+            "orgName": "河北环境工程学院",
+            "productId": 67,
+            "organizationAuthCode": "hbhj",
+            "organizationUserId": 6296950
+        },
+        "87490": {
+            "orgName": "河北环境工程学院",
+            "productId": 89,
+            "organizationAuthCode": "hbhj",
+            "organizationUserId": 6296950
+        },
+        "87487": {
+            "orgName": "河北环境工程学院",
+            "productId": 90,
+            "organizationAuthCode": "hbhj",
+            "organizationUserId": 6296950
+        },
+        "87488": {
+            "orgName": "河北环境工程学院",
+            "productId": 91,
+            "organizationAuthCode": "hbhj",
+            "organizationUserId": 6296950
+        },
+        "87489": {
+            "orgName": "河北环境工程学院",
+            "productId": 92,
+            "organizationAuthCode": "hbhj",
+            "organizationUserId": 6296950
+        },
+        "86661": {
+            "orgName": "河北环境工程学院",
+            "productId": 93,
+            "organizationAuthCode": "hbhj",
+            "organizationUserId": 6296950
+        },
+        "86660": {
+            "orgName": "河北环境工程学院",
+            "productId": 98,
+            "organizationAuthCode": "hbhj",
+            "organizationUserId": 6296950
+        },
+        "10026": {
+            "orgName": "商丘工学院图书馆",
+            "productId": 3,
+            "organizationAuthCode": "sqgxy",
+            "organizationUserId": 1568422
+        },
+        "27080": {
+            "orgName": "商丘工学院图书馆",
+            "productId": 5,
+            "organizationAuthCode": "sqgxy",
+            "organizationUserId": 1568422
+        },
+        "56411": {
+            "orgName": "商丘工学院图书馆",
+            "productId": 16,
+            "organizationAuthCode": "sqgxy",
+            "organizationUserId": 1568422
+        },
+        "56445": {
+            "orgName": "商丘工学院图书馆",
+            "productId": 61,
+            "organizationAuthCode": "sqgxy",
+            "organizationUserId": 1568422
+        },
+        "74041": {
+            "orgName": "商丘工学院图书馆",
+            "productId": 66,
+            "organizationAuthCode": "sqgxy",
+            "organizationUserId": 1568422
+        },
+        "62120": {
+            "orgName": "商丘工学院图书馆",
+            "productId": 67,
+            "organizationAuthCode": "sqgxy",
+            "organizationUserId": 1568422
+        },
+        "22042": {
+            "orgName": "江苏海事职业技术学院图书馆",
+            "productId": 1,
+            "organizationAuthCode": "jshslib",
+            "organizationUserId": 2880
+        },
+        "9366": {
+            "orgName": "江苏海事职业技术学院图书馆",
+            "productId": 3,
+            "organizationAuthCode": "jshslib",
+            "organizationUserId": 2880
+        },
+        "27084": {
+            "orgName": "江苏海事职业技术学院图书馆",
+            "productId": 11,
+            "organizationAuthCode": "jshslib",
+            "organizationUserId": 2880
+        },
+        "27082": {
+            "orgName": "江苏海事职业技术学院图书馆",
+            "productId": 17,
+            "organizationAuthCode": "jshslib",
+            "organizationUserId": 2880
+        },
+        "30590": {
+            "orgName": "木里藏族自治县图书馆",
+            "productId": 3,
+            "organizationAuthCode": "mlxtsg",
+            "organizationUserId": 6297193
+        },
+        "27103": {
+            "orgName": "北京市质量技术监督局",
+            "productId": 3,
+            "organizationAuthCode": "bjzjj",
+            "organizationUserId": 6297194
+        },
+        "27101": {
+            "orgName": "北京市质量技术监督局",
+            "productId": 5,
+            "organizationAuthCode": "bjzjj",
+            "organizationUserId": 6297194
+        },
+        "36438": {
+            "orgName": "北京市质量技术监督局",
+            "productId": 21,
+            "organizationAuthCode": "bjzjj",
+            "organizationUserId": 6297194
+        },
+        "27114": {
+            "orgName": "中国科学院国家天文台",
+            "productId": 5,
+            "organizationAuthCode": "zgtwt",
+            "organizationUserId": 6297195
+        },
+        "27978": {
+            "orgName": "天津商业大学图书馆",
+            "productId": 1,
+            "organizationAuthCode": "tjsydx",
+            "organizationUserId": 6297197
+        },
+        "27981": {
+            "orgName": "天津商业大学图书馆",
+            "productId": 5,
+            "organizationAuthCode": "tjsydx",
+            "organizationUserId": 6297197
+        },
+        "27130": {
+            "orgName": "天津商业大学图书馆",
+            "productId": 11,
+            "organizationAuthCode": "tjsydx",
+            "organizationUserId": 6297197
+        },
+        "27131": {
+            "orgName": "天津商业大学图书馆",
+            "productId": 12,
+            "organizationAuthCode": "tjsydx",
+            "organizationUserId": 6297197
+        },
+        "37282": {
+            "orgName": "天津商业大学图书馆",
+            "productId": 19,
+            "organizationAuthCode": "tjsydx",
+            "organizationUserId": 6297197
+        },
+        "55663": {
+            "orgName": "天津商业大学图书馆",
+            "productId": 61,
+            "organizationAuthCode": "tjsydx",
+            "organizationUserId": 6297197
+        },
+        "69461": {
+            "orgName": "天津商业大学图书馆",
+            "productId": 66,
+            "organizationAuthCode": "tjsydx",
+            "organizationUserId": 6297197
+        },
+        "61868": {
+            "orgName": "天津商业大学图书馆",
+            "productId": 67,
+            "organizationAuthCode": "tjsydx",
+            "organizationUserId": 6297197
+        },
+        "23418": {
+            "orgName": "南京财经大学图书馆",
+            "productId": 1,
+            "organizationAuthCode": "njcjlib",
+            "organizationUserId": 2730
+        },
+        "9677": {
+            "orgName": "南京财经大学图书馆",
+            "productId": 3,
+            "organizationAuthCode": "njcjlib",
+            "organizationUserId": 2730
+        },
+        "27138": {
+            "orgName": "南京财经大学图书馆",
+            "productId": 11,
+            "organizationAuthCode": "njcjlib",
+            "organizationUserId": 2730
+        },
+        "27139": {
+            "orgName": "南京财经大学图书馆",
+            "productId": 17,
+            "organizationAuthCode": "njcjlib",
+            "organizationUserId": 2730
+        },
+        "56615": {
+            "orgName": "南京财经大学图书馆",
+            "productId": 61,
+            "organizationAuthCode": "njcjlib",
+            "organizationUserId": 2730
+        },
+        "62203": {
+            "orgName": "南京财经大学图书馆",
+            "productId": 67,
+            "organizationAuthCode": "njcjlib",
+            "organizationUserId": 2730
+        },
+        "27399": {
+            "orgName": "西安邮电大学",
+            "productId": 5,
+            "organizationAuthCode": "xupt",
+            "organizationUserId": 6297206
+        },
+        "27400": {
+            "orgName": "西安邮电大学",
+            "productId": 11,
+            "organizationAuthCode": "xupt",
+            "organizationUserId": 6297206
+        },
+        "27401": {
+            "orgName": "西安邮电大学",
+            "productId": 12,
+            "organizationAuthCode": "xupt",
+            "organizationUserId": 6297206
+        },
+        "27402": {
+            "orgName": "西安邮电大学",
+            "productId": 17,
+            "organizationAuthCode": "xupt",
+            "organizationUserId": 6297206
+        },
+        "59120": {
+            "orgName": "西安邮电大学",
+            "productId": 61,
+            "organizationAuthCode": "xupt",
+            "organizationUserId": 6297206
+        },
+        "65807": {
+            "orgName": "西安邮电大学",
+            "productId": 66,
+            "organizationAuthCode": "xupt",
+            "organizationUserId": 6297206
+        },
+        "62836": {
+            "orgName": "西安邮电大学",
+            "productId": 67,
+            "organizationAuthCode": "xupt",
+            "organizationUserId": 6297206
+        },
+        "52531": {
+            "orgName": "宁城县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "ncxlib",
+            "organizationUserId": 6297219
+        },
+        "27468": {
+            "orgName": "宁城县图书馆",
+            "productId": 3,
+            "organizationAuthCode": "ncxlib",
+            "organizationUserId": 6297219
+        },
+        "36992": {
+            "orgName": "宁城县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "ncxlib",
+            "organizationUserId": 6297219
+        },
+        "36993": {
+            "orgName": "宁城县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "ncxlib",
+            "organizationUserId": 6297219
+        },
+        "52532": {
+            "orgName": "宁城县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "ncxlib",
+            "organizationUserId": 6297219
+        },
+        "37005": {
+            "orgName": "宁城县图书馆",
+            "productId": 19,
+            "organizationAuthCode": "ncxlib",
+            "organizationUserId": 6297219
+        },
+        "41233": {
+            "orgName": "宁城县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "ncxlib",
+            "organizationUserId": 6297219
+        },
+        "37006": {
+            "orgName": "宁城县图书馆",
+            "productId": 24,
+            "organizationAuthCode": "ncxlib",
+            "organizationUserId": 6297219
+        },
+        "73184": {
+            "orgName": "宁城县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "ncxlib",
+            "organizationUserId": 6297219
+        },
+        "73185": {
+            "orgName": "宁城县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "ncxlib",
+            "organizationUserId": 6297219
+        },
+        "27488": {
+            "orgName": "中共武威市委组织部",
+            "productId": 13,
+            "organizationAuthCode": "wwszzb",
+            "organizationUserId": 6286469
+        },
+        "27489": {
+            "orgName": "中共武威市委组织部",
+            "productId": 14,
+            "organizationAuthCode": "wwszzb",
+            "organizationUserId": 6286469
+        },
+        "27490": {
+            "orgName": "中共武威市委组织部",
+            "productId": 16,
+            "organizationAuthCode": "wwszzb",
+            "organizationUserId": 6286469
+        },
+        "28128": {
+            "orgName": "中共武威市委组织部",
+            "productId": 23,
+            "organizationAuthCode": "wwszzb",
+            "organizationUserId": 6286469
+        },
+        "32725": {
+            "orgName": "中国人民银行",
+            "productId": 1,
+            "organizationAuthCode": "pbcgh",
+            "organizationUserId": 6297221
+        },
+        "32724": {
+            "orgName": "中国人民银行",
+            "productId": 5,
+            "organizationAuthCode": "pbcgh",
+            "organizationUserId": 6297221
+        },
+        "43714": {
+            "orgName": "中国人民银行",
+            "productId": 11,
+            "organizationAuthCode": "pbcgh",
+            "organizationUserId": 6297221
+        },
+        "43715": {
+            "orgName": "中国人民银行",
+            "productId": 21,
+            "organizationAuthCode": "pbcgh",
+            "organizationUserId": 6297221
+        },
+        "23278": {
+            "orgName": "杭州职业技术学院图书馆",
+            "productId": 1,
+            "organizationAuthCode": "hzzyjslib",
+            "organizationUserId": 2751775
+        },
+        "9254": {
+            "orgName": "杭州职业技术学院图书馆",
+            "productId": 3,
+            "organizationAuthCode": "hzzyjslib",
+            "organizationUserId": 2751775
+        },
+        "31384": {
+            "orgName": "杭州职业技术学院图书馆",
+            "productId": 5,
+            "organizationAuthCode": "hzzyjslib",
+            "organizationUserId": 2751775
+        },
+        "35816": {
+            "orgName": "杭州职业技术学院图书馆",
+            "productId": 11,
+            "organizationAuthCode": "hzzyjslib",
+            "organizationUserId": 2751775
+        },
+        "46161": {
+            "orgName": "杭州职业技术学院图书馆",
+            "productId": 16,
+            "organizationAuthCode": "hzzyjslib",
+            "organizationUserId": 2751775
+        },
+        "28646": {
+            "orgName": "杭州职业技术学院图书馆",
+            "productId": 21,
+            "organizationAuthCode": "hzzyjslib",
+            "organizationUserId": 2751775
+        },
+        "54914": {
+            "orgName": "杭州职业技术学院图书馆",
+            "productId": 61,
+            "organizationAuthCode": "hzzyjslib",
+            "organizationUserId": 2751775
+        },
+        "65387": {
+            "orgName": "杭州职业技术学院图书馆",
+            "productId": 66,
+            "organizationAuthCode": "hzzyjslib",
+            "organizationUserId": 2751775
+        },
+        "61545": {
+            "orgName": "杭州职业技术学院图书馆",
+            "productId": 67,
+            "organizationAuthCode": "hzzyjslib",
+            "organizationUserId": 2751775
+        },
+        "27539": {
+            "orgName": "中国通用技术(集团)控股有限责任公司",
+            "productId": 1,
+            "organizationAuthCode": "tyjs",
+            "organizationUserId": 6297223
+        },
+        "51492": {
+            "orgName": "中国通用技术(集团)控股有限责任公司",
+            "productId": 19,
+            "organizationAuthCode": "tyjs",
+            "organizationUserId": 6297223
+        },
+        "27538": {
+            "orgName": "北京市建筑设计研究院有限公司",
+            "productId": 5,
+            "organizationAuthCode": "biad",
+            "organizationUserId": 6297224
+        },
+        "35513": {
+            "orgName": "北京市建筑设计研究院有限公司",
+            "productId": 11,
+            "organizationAuthCode": "biad",
+            "organizationUserId": 6297224
+        },
+        "52002": {
+            "orgName": "北京市建筑设计研究院有限公司",
+            "productId": 21,
+            "organizationAuthCode": "biad",
+            "organizationUserId": 6297224
+        },
+        "27543": {
+            "orgName": "中建财务有限公司",
+            "productId": 5,
+            "organizationAuthCode": "cscfc",
+            "organizationUserId": 6297225
+        },
+        "20806": {
+            "orgName": "济南高新区总工会",
+            "productId": 5,
+            "organizationAuthCode": "gxq",
+            "organizationUserId": 6292797
+        },
+        "30333": {
+            "orgName": "济南高新区总工会",
+            "productId": 21,
+            "organizationAuthCode": "gxq",
+            "organizationUserId": 6292797
+        },
+        "27581": {
+            "orgName": "河钢集团邯钢公司",
+            "productId": 1,
+            "organizationAuthCode": "hgjt",
+            "organizationUserId": 6297232
+        },
+        "67909": {
+            "orgName": "河钢集团邯钢公司",
+            "productId": 61,
+            "organizationAuthCode": "hgjt",
+            "organizationUserId": 6297232
+        },
+        "68638": {
+            "orgName": "河钢集团邯钢公司",
+            "productId": 66,
+            "organizationAuthCode": "hgjt",
+            "organizationUserId": 6297232
+        },
+        "67908": {
+            "orgName": "河钢集团邯钢公司",
+            "productId": 67,
+            "organizationAuthCode": "hgjt",
+            "organizationUserId": 6297232
+        },
+        "68753": {
+            "orgName": "中澳科技职业学院",
+            "productId": 1,
+            "organizationAuthCode": "zakjzyxy",
+            "organizationUserId": 6297233
+        },
+        "38748": {
+            "orgName": "中澳科技职业学院",
+            "productId": 19,
+            "organizationAuthCode": "zakjzyxy",
+            "organizationUserId": 6297233
+        },
+        "79840": {
+            "orgName": "中澳科技职业学院",
+            "productId": 89,
+            "organizationAuthCode": "zakjzyxy",
+            "organizationUserId": 6297233
+        },
+        "79841": {
+            "orgName": "中澳科技职业学院",
+            "productId": 90,
+            "organizationAuthCode": "zakjzyxy",
+            "organizationUserId": 6297233
+        },
+        "79842": {
+            "orgName": "中澳科技职业学院",
+            "productId": 91,
+            "organizationAuthCode": "zakjzyxy",
+            "organizationUserId": 6297233
+        },
+        "79843": {
+            "orgName": "中澳科技职业学院",
+            "productId": 92,
+            "organizationAuthCode": "zakjzyxy",
+            "organizationUserId": 6297233
+        },
+        "79844": {
+            "orgName": "中澳科技职业学院",
+            "productId": 93,
+            "organizationAuthCode": "zakjzyxy",
+            "organizationUserId": 6297233
+        },
+        "85203": {
+            "orgName": "中澳科技职业学院",
+            "productId": 98,
+            "organizationAuthCode": "zakjzyxy",
+            "organizationUserId": 6297233
+        },
+        "22200": {
+            "orgName": "山西青年职业学院图书馆",
+            "productId": 1,
+            "organizationAuthCode": "sxqnzy",
+            "organizationUserId": 6293362
+        },
+        "27607": {
+            "orgName": "山西青年职业学院图书馆",
+            "productId": 5,
+            "organizationAuthCode": "sxqnzy",
+            "organizationUserId": 6293362
+        },
+        "27610": {
+            "orgName": "山西青年职业学院图书馆",
+            "productId": 11,
+            "organizationAuthCode": "sxqnzy",
+            "organizationUserId": 6293362
+        },
+        "27609": {
+            "orgName": "山西青年职业学院图书馆",
+            "productId": 12,
+            "organizationAuthCode": "sxqnzy",
+            "organizationUserId": 6293362
+        },
+        "46051": {
+            "orgName": "山西青年职业学院图书馆",
+            "productId": 16,
+            "organizationAuthCode": "sxqnzy",
+            "organizationUserId": 6293362
+        },
+        "27608": {
+            "orgName": "山西青年职业学院图书馆",
+            "productId": 17,
+            "organizationAuthCode": "sxqnzy",
+            "organizationUserId": 6293362
+        },
+        "29315": {
+            "orgName": "山西青年职业学院图书馆",
+            "productId": 21,
+            "organizationAuthCode": "sxqnzy",
+            "organizationUserId": 6293362
+        },
+        "40367": {
+            "orgName": "山西青年职业学院图书馆",
+            "productId": 24,
+            "organizationAuthCode": "sxqnzy",
+            "organizationUserId": 6293362
+        },
+        "70899": {
+            "orgName": "山西青年职业学院图书馆",
+            "productId": 66,
+            "organizationAuthCode": "sxqnzy",
+            "organizationUserId": 6293362
+        },
+        "70900": {
+            "orgName": "山西青年职业学院图书馆",
+            "productId": 67,
+            "organizationAuthCode": "sxqnzy",
+            "organizationUserId": 6293362
+        },
+        "41728": {
+            "orgName": "南京审计大学金审学院",
+            "productId": 5,
+            "organizationAuthCode": "njsjdx",
+            "organizationUserId": 6297241
+        },
+        "43664": {
+            "orgName": "南京审计大学金审学院",
+            "productId": 11,
+            "organizationAuthCode": "njsjdx",
+            "organizationUserId": 6297241
+        },
+        "27618": {
+            "orgName": "南京审计大学金审学院",
+            "productId": 12,
+            "organizationAuthCode": "njsjdx",
+            "organizationUserId": 6297241
+        },
+        "44995": {
+            "orgName": "南京审计大学金审学院",
+            "productId": 16,
+            "organizationAuthCode": "njsjdx",
+            "organizationUserId": 6297241
+        },
+        "27615": {
+            "orgName": "南京审计大学金审学院",
+            "productId": 17,
+            "organizationAuthCode": "njsjdx",
+            "organizationUserId": 6297241
+        },
+        "56635": {
+            "orgName": "南京审计大学金审学院",
+            "productId": 61,
+            "organizationAuthCode": "njsjdx",
+            "organizationUserId": 6297241
+        },
+        "73463": {
+            "orgName": "南京审计大学金审学院",
+            "productId": 66,
+            "organizationAuthCode": "njsjdx",
+            "organizationUserId": 6297241
+        },
+        "62213": {
+            "orgName": "南京审计大学金审学院",
+            "productId": 67,
+            "organizationAuthCode": "njsjdx",
+            "organizationUserId": 6297241
+        },
+        "27741": {
+            "orgName": "玉溪高新技术产业开发区管理委员会",
+            "productId": 5,
+            "organizationAuthCode": "yxgxq",
+            "organizationUserId": 6297242
+        },
+        "28567": {
+            "orgName": "玉溪高新技术产业开发区管理委员会",
+            "productId": 10,
+            "organizationAuthCode": "yxgxq",
+            "organizationUserId": 6297242
+        },
+        "32565": {
+            "orgName": "玉溪高新技术产业开发区管理委员会",
+            "productId": 21,
+            "organizationAuthCode": "yxgxq",
+            "organizationUserId": 6297242
+        },
+        "30382": {
+            "orgName": "凌源市图书馆",
+            "productId": 5,
+            "organizationAuthCode": "lystsg",
+            "organizationUserId": 6291098
+        },
+        "27605": {
+            "orgName": "凌源市图书馆",
+            "productId": 12,
+            "organizationAuthCode": "lystsg",
+            "organizationUserId": 6291098
+        },
+        "42236": {
+            "orgName": "凌源市图书馆",
+            "productId": 13,
+            "organizationAuthCode": "lystsg",
+            "organizationUserId": 6291098
+        },
+        "42237": {
+            "orgName": "凌源市图书馆",
+            "productId": 15,
+            "organizationAuthCode": "lystsg",
+            "organizationUserId": 6291098
+        },
+        "42238": {
+            "orgName": "凌源市图书馆",
+            "productId": 16,
+            "organizationAuthCode": "lystsg",
+            "organizationUserId": 6291098
+        },
+        "33716": {
+            "orgName": "凌源市图书馆",
+            "productId": 17,
+            "organizationAuthCode": "lystsg",
+            "organizationUserId": 6291098
+        },
+        "43407": {
+            "orgName": "凌源市图书馆",
+            "productId": 19,
+            "organizationAuthCode": "lystsg",
+            "organizationUserId": 6291098
+        },
+        "30133": {
+            "orgName": "凌源市图书馆",
+            "productId": 21,
+            "organizationAuthCode": "lystsg",
+            "organizationUserId": 6291098
+        },
+        "39795": {
+            "orgName": "凌源市图书馆",
+            "productId": 24,
+            "organizationAuthCode": "lystsg",
+            "organizationUserId": 6291098
+        },
+        "42239": {
+            "orgName": "凌源市图书馆",
+            "productId": 26,
+            "organizationAuthCode": "lystsg",
+            "organizationUserId": 6291098
+        },
+        "71627": {
+            "orgName": "凌源市图书馆",
+            "productId": 66,
+            "organizationAuthCode": "lystsg",
+            "organizationUserId": 6291098
+        },
+        "71628": {
+            "orgName": "凌源市图书馆",
+            "productId": 67,
+            "organizationAuthCode": "lystsg",
+            "organizationUserId": 6291098
+        },
+        "38823": {
+            "orgName": "安徽广播影视职业学院",
+            "productId": 1,
+            "organizationAuthCode": "ahgbys",
+            "organizationUserId": 6297244
+        },
+        "31382": {
+            "orgName": "安徽广播影视职业学院",
+            "productId": 5,
+            "organizationAuthCode": "ahgbys",
+            "organizationUserId": 6297244
+        },
+        "37296": {
+            "orgName": "安徽广播影视职业学院",
+            "productId": 11,
+            "organizationAuthCode": "ahgbys",
+            "organizationUserId": 6297244
+        },
+        "37403": {
+            "orgName": "安徽广播影视职业学院",
+            "productId": 24,
+            "organizationAuthCode": "ahgbys",
+            "organizationUserId": 6297244
+        },
+        "69966": {
+            "orgName": "安徽广播影视职业学院",
+            "productId": 66,
+            "organizationAuthCode": "ahgbys",
+            "organizationUserId": 6297244
+        },
+        "69967": {
+            "orgName": "安徽广播影视职业学院",
+            "productId": 67,
+            "organizationAuthCode": "ahgbys",
+            "organizationUserId": 6297244
+        },
+        "27635": {
+            "orgName": "北京广利核系统工程有限公司",
+            "productId": 5,
+            "organizationAuthCode": "ctecdcs",
+            "organizationUserId": 6297245
+        },
+        "32515": {
+            "orgName": "北京广利核系统工程有限公司",
+            "productId": 21,
+            "organizationAuthCode": "ctecdcs",
+            "organizationUserId": 6297245
+        },
+        "32960": {
+            "orgName": "中国石化塔河炼化有限责任公司",
+            "productId": 1,
+            "organizationAuthCode": "thlh",
+            "organizationUserId": 6297250
+        },
+        "33093": {
+            "orgName": "中国石化塔河炼化有限责任公司",
+            "productId": 3,
+            "organizationAuthCode": "thlh",
+            "organizationUserId": 6297250
+        },
+        "27647": {
+            "orgName": "军事科学院图书馆",
+            "productId": 1,
+            "organizationAuthCode": "jtzj",
+            "organizationUserId": 6297251
+        },
+        "30985": {
+            "orgName": "军事科学院图书馆",
+            "productId": 3,
+            "organizationAuthCode": "jtzj",
+            "organizationUserId": 6297251
+        },
+        "27648": {
+            "orgName": "军事科学院图书馆",
+            "productId": 5,
+            "organizationAuthCode": "jtzj",
+            "organizationUserId": 6297251
+        },
+        "34642": {
+            "orgName": "军事科学院图书馆",
+            "productId": 11,
+            "organizationAuthCode": "jtzj",
+            "organizationUserId": 6297251
+        },
+        "34644": {
+            "orgName": "军事科学院图书馆",
+            "productId": 12,
+            "organizationAuthCode": "jtzj",
+            "organizationUserId": 6297251
+        },
+        "29143": {
+            "orgName": "军事科学院图书馆",
+            "productId": 13,
+            "organizationAuthCode": "jtzj",
+            "organizationUserId": 6297251
+        },
+        "45823": {
+            "orgName": "军事科学院图书馆",
+            "productId": 15,
+            "organizationAuthCode": "jtzj",
+            "organizationUserId": 6297251
+        },
+        "46402": {
+            "orgName": "军事科学院图书馆",
+            "productId": 16,
+            "organizationAuthCode": "jtzj",
+            "organizationUserId": 6297251
+        },
+        "31082": {
+            "orgName": "军事科学院图书馆",
+            "productId": 21,
+            "organizationAuthCode": "jtzj",
+            "organizationUserId": 6297251
+        },
+        "53011": {
+            "orgName": "军事科学院图书馆",
+            "productId": 31,
+            "organizationAuthCode": "jtzj",
+            "organizationUserId": 6297251
+        },
+        "34009": {
+            "orgName": "军事科学院图书馆",
+            "productId": 33,
+            "organizationAuthCode": "jtzj",
+            "organizationUserId": 6297251
+        },
+        "72142": {
+            "orgName": "军事科学院图书馆",
+            "productId": 66,
+            "organizationAuthCode": "jtzj",
+            "organizationUserId": 6297251
+        },
+        "27702": {
+            "orgName": "连山区图书馆",
+            "productId": 5,
+            "organizationAuthCode": "lsqlib",
+            "organizationUserId": 6297252
+        },
+        "27651": {
+            "orgName": "连山区图书馆",
+            "productId": 11,
+            "organizationAuthCode": "lsqlib",
+            "organizationUserId": 6297252
+        },
+        "27650": {
+            "orgName": "连山区图书馆",
+            "productId": 12,
+            "organizationAuthCode": "lsqlib",
+            "organizationUserId": 6297252
+        },
+        "42240": {
+            "orgName": "连山区图书馆",
+            "productId": 13,
+            "organizationAuthCode": "lsqlib",
+            "organizationUserId": 6297252
+        },
+        "42241": {
+            "orgName": "连山区图书馆",
+            "productId": 15,
+            "organizationAuthCode": "lsqlib",
+            "organizationUserId": 6297252
+        },
+        "42242": {
+            "orgName": "连山区图书馆",
+            "productId": 16,
+            "organizationAuthCode": "lsqlib",
+            "organizationUserId": 6297252
+        },
+        "43408": {
+            "orgName": "连山区图书馆",
+            "productId": 19,
+            "organizationAuthCode": "lsqlib",
+            "organizationUserId": 6297252
+        },
+        "38462": {
+            "orgName": "连山区图书馆",
+            "productId": 21,
+            "organizationAuthCode": "lsqlib",
+            "organizationUserId": 6297252
+        },
+        "39790": {
+            "orgName": "连山区图书馆",
+            "productId": 24,
+            "organizationAuthCode": "lsqlib",
+            "organizationUserId": 6297252
+        },
+        "42243": {
+            "orgName": "连山区图书馆",
+            "productId": 26,
+            "organizationAuthCode": "lsqlib",
+            "organizationUserId": 6297252
+        },
+        "71412": {
+            "orgName": "连山区图书馆",
+            "productId": 66,
+            "organizationAuthCode": "lsqlib",
+            "organizationUserId": 6297252
+        },
+        "71413": {
+            "orgName": "连山区图书馆",
+            "productId": 67,
+            "organizationAuthCode": "lsqlib",
+            "organizationUserId": 6297252
+        },
+        "75172": {
+            "orgName": "庐江县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "ljlib",
+            "organizationUserId": 6297254
+        },
+        "37471": {
+            "orgName": "庐江县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "ljlib",
+            "organizationUserId": 6297254
+        },
+        "86220": {
+            "orgName": "庐江县图书馆",
+            "productId": 10,
+            "organizationAuthCode": "ljlib",
+            "organizationUserId": 6297254
+        },
+        "29394": {
+            "orgName": "庐江县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "ljlib",
+            "organizationUserId": 6297254
+        },
+        "45772": {
+            "orgName": "庐江县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "ljlib",
+            "organizationUserId": 6297254
+        },
+        "75173": {
+            "orgName": "庐江县图书馆",
+            "productId": 19,
+            "organizationAuthCode": "ljlib",
+            "organizationUserId": 6297254
+        },
+        "29395": {
+            "orgName": "庐江县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "ljlib",
+            "organizationUserId": 6297254
+        },
+        "38198": {
+            "orgName": "庐江县图书馆",
+            "productId": 24,
+            "organizationAuthCode": "ljlib",
+            "organizationUserId": 6297254
+        },
+        "67314": {
+            "orgName": "庐江县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "ljlib",
+            "organizationUserId": 6297254
+        },
+        "69924": {
+            "orgName": "庐江县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "ljlib",
+            "organizationUserId": 6297254
+        },
+        "84071": {
+            "orgName": "庐江县图书馆",
+            "productId": 93,
+            "organizationAuthCode": "ljlib",
+            "organizationUserId": 6297254
+        },
+        "84070": {
+            "orgName": "庐江县图书馆",
+            "productId": 98,
+            "organizationAuthCode": "ljlib",
+            "organizationUserId": 6297254
+        },
+        "25550": {
+            "orgName": "安徽中医药大学",
+            "productId": 1,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "8218": {
+            "orgName": "安徽中医药大学",
+            "productId": 3,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "37487": {
+            "orgName": "安徽中医药大学",
+            "productId": 5,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "35472": {
+            "orgName": "安徽中医药大学",
+            "productId": 11,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "45562": {
+            "orgName": "安徽中医药大学",
+            "productId": 16,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "83345": {
+            "orgName": "安徽中医药大学",
+            "productId": 19,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "38196": {
+            "orgName": "安徽中医药大学",
+            "productId": 24,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "57687": {
+            "orgName": "安徽中医药大学",
+            "productId": 61,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "62523": {
+            "orgName": "安徽中医药大学",
+            "productId": 67,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "79769": {
+            "orgName": "安徽中医药大学",
+            "productId": 89,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "79770": {
+            "orgName": "安徽中医药大学",
+            "productId": 90,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "79771": {
+            "orgName": "安徽中医药大学",
+            "productId": 91,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "79772": {
+            "orgName": "安徽中医药大学",
+            "productId": 92,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "79773": {
+            "orgName": "安徽中医药大学",
+            "productId": 93,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "82374": {
+            "orgName": "安徽中医药大学",
+            "productId": 98,
+            "organizationAuthCode": "ahzyydx",
+            "organizationUserId": 6292562
+        },
+        "27693": {
+            "orgName": "肥西县公安局",
+            "productId": 5,
+            "organizationAuthCode": "fxxgaj",
+            "organizationUserId": 6297262
+        },
+        "27749": {
+            "orgName": "肥西县公安局",
+            "productId": 13,
+            "organizationAuthCode": "fxxgaj",
+            "organizationUserId": 6297262
+        },
+        "27750": {
+            "orgName": "肥西县公安局",
+            "productId": 15,
+            "organizationAuthCode": "fxxgaj",
+            "organizationUserId": 6297262
+        },
+        "27751": {
+            "orgName": "肥西县公安局",
+            "productId": 16,
+            "organizationAuthCode": "fxxgaj",
+            "organizationUserId": 6297262
+        },
+        "27698": {
+            "orgName": "华夏银行股份有限公司",
+            "productId": 5,
+            "organizationAuthCode": "hxyh",
+            "organizationUserId": 6297263
+        },
+        "35520": {
+            "orgName": "华夏银行股份有限公司",
+            "productId": 11,
+            "organizationAuthCode": "hxyh",
+            "organizationUserId": 6297263
+        },
+        "64472": {
+            "orgName": "华夏银行股份有限公司",
+            "productId": 61,
+            "organizationAuthCode": "hxyh",
+            "organizationUserId": 6297263
+        },
+        "68640": {
+            "orgName": "华夏银行股份有限公司",
+            "productId": 66,
+            "organizationAuthCode": "hxyh",
+            "organizationUserId": 6297263
+        },
+        "64471": {
+            "orgName": "华夏银行股份有限公司",
+            "productId": 67,
+            "organizationAuthCode": "hxyh",
+            "organizationUserId": 6297263
+        },
+        "27703": {
+            "orgName": "中国石油天然气股份有限公司西藏销售分公司",
+            "productId": 1,
+            "organizationAuthCode": "zsyxz",
+            "organizationUserId": 6297265
+        },
+        "27731": {
+            "orgName": "河北钢铁集团石家庄钢铁有限责任公司",
+            "productId": 5,
+            "organizationAuthCode": "sjzgt",
+            "organizationUserId": 6297272
+        },
+        "28709": {
+            "orgName": "华能上海石洞口第二电厂",
+            "productId": 3,
+            "organizationAuthCode": "shdk2",
+            "organizationUserId": 6297282
+        },
+        "52659": {
+            "orgName": "华能上海石洞口第二电厂",
+            "productId": 5,
+            "organizationAuthCode": "shdk2",
+            "organizationUserId": 6297282
+        },
+        "28710": {
+            "orgName": "华能上海石洞口第二电厂",
+            "productId": 8,
+            "organizationAuthCode": "shdk2",
+            "organizationUserId": 6297282
+        },
+        "81266": {
+            "orgName": "华能上海石洞口第二电厂",
+            "productId": 66,
+            "organizationAuthCode": "shdk2",
+            "organizationUserId": 6297282
+        },
+        "81265": {
+            "orgName": "华能上海石洞口第二电厂",
+            "productId": 94,
+            "organizationAuthCode": "shdk2",
+            "organizationUserId": 6297282
+        },
+        "27807": {
+            "orgName": "中国大唐集团公司广西分公司",
+            "productId": 5,
+            "organizationAuthCode": "cdtgx",
+            "organizationUserId": 6297292
+        },
+        "32392": {
+            "orgName": "国能铁路装备有限责任公司",
+            "productId": 5,
+            "organizationAuthCode": "tlzb",
+            "organizationUserId": 6297294
+        },
+        "35054": {
+            "orgName": "国能铁路装备有限责任公司",
+            "productId": 11,
+            "organizationAuthCode": "tlzb",
+            "organizationUserId": 6297294
+        },
+        "36349": {
+            "orgName": "国能铁路装备有限责任公司",
+            "productId": 12,
+            "organizationAuthCode": "tlzb",
+            "organizationUserId": 6297294
+        },
+        "32395": {
+            "orgName": "国能铁路装备有限责任公司",
+            "productId": 21,
+            "organizationAuthCode": "tlzb",
+            "organizationUserId": 6297294
+        },
+        "72091": {
+            "orgName": "建昌县图书馆",
+            "productId": 1,
+            "organizationAuthCode": "hldjc",
+            "organizationUserId": 6297298
+        },
+        "27839": {
+            "orgName": "建昌县图书馆",
+            "productId": 5,
+            "organizationAuthCode": "hldjc",
+            "organizationUserId": 6297298
+        },
+        "27899": {
+            "orgName": "建昌县图书馆",
+            "productId": 11,
+            "organizationAuthCode": "hldjc",
+            "organizationUserId": 6297298
+        },
+        "42884": {
+            "orgName": "建昌县图书馆",
+            "productId": 13,
+            "organizationAuthCode": "hldjc",
+            "organizationUserId": 6297298
+        },
+        "42885": {
+            "orgName": "建昌县图书馆",
+            "productId": 15,
+            "organizationAuthCode": "hldjc",
+            "organizationUserId": 6297298
+        },
+        "42886": {
+            "orgName": "建昌县图书馆",
+            "productId": 16,
+            "organizationAuthCode": "hldjc",
+            "organizationUserId": 6297298
+        },
+        "43567": {
+            "orgName": "建昌县图书馆",
+            "productId": 19,
+            "organizationAuthCode": "hldjc",
+            "organizationUserId": 6297298
+        },
+        "30122": {
+            "orgName": "建昌县图书馆",
+            "productId": 21,
+            "organizationAuthCode": "hldjc",
+            "organizationUserId": 6297298
+        },
+        "39793": {
+            "orgName": "建昌县图书馆",
+            "productId": 24,
+            "organizationAuthCode": "hldjc",
+            "organizationUserId": 6297298
+        },
+        "42887": {
+            "orgName": "建昌县图书馆",
+            "productId": 26,
+            "organizationAuthCode": "hldjc",
+            "organizationUserId": 6297298
+        },
+        "71659": {
+            "orgName": "建昌县图书馆",
+            "productId": 66,
+            "organizationAuthCode": "hldjc",
+            "organizationUserId": 6297298
+        },
+        "71660": {
+            "orgName": "建昌县图书馆",
+            "productId": 67,
+            "organizationAuthCode": "hldjc",
+            "organizationUserId": 6297298
+        },
+        "27842": {
+            "orgName": "云南城市建设职业学院图书馆",
+            "productId": 5,
+            "organizationAuthCode": "yncsjs",
+            "organizationUserId": 6297299
+        },
+        "27843": {
+            "orgName": "云南城市建设职业学院图书馆",
+            "productId": 11,
+            "organizationAuthCode": "yncsjs",
+            "organizationUserId": 6297299
+        },
+        "27844": {
+            "orgName": "云南城市建设职业学院图书馆",
+            "productId": 12,
+            "organizationAuthCode": "yncsjs",
+            "organizationUserId": 6297299
+        },
+        "27845": {
+            "orgName": "云南城市建设职业学院图书馆",
+            "productId": 17,
+            "organizationAuthCode": "yncsjs",
+            "organizationUserId": 6297299
+        },
+        "70589": {
+            "orgName": "云南城市建设职业学院图书馆",
+            "productId": 66,
+            "organizationAuthCode": "yncsjs",
+            "organizationUserId": 6297299
+        },
+        "70590": {
+            "orgName": "云南城市建设职业学院图书馆",
+            "productId": 67,
+            "organizationAuthCode": "yncsjs",
+            "organizationUserId": 6297299
+        },
+        "29914": {
+            "orgName": "AI服务平台",
+            "productId": 1,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "27810": {
+            "orgName": "AI服务平台",
+            "productId": 5,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "28320": {
+            "orgName": "AI服务平台",
+            "productId": 11,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "26765": {
+            "orgName": "AI服务平台",
+            "productId": 15,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "26766": {
+            "orgName": "AI服务平台",
+            "productId": 16,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "75892": {
+            "orgName": "AI服务平台",
+            "productId": 19,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "34035": {
+            "orgName": "AI服务平台",
+            "productId": 24,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "75893": {
+            "orgName": "AI服务平台",
+            "productId": 32,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "76161": {
+            "orgName": "AI服务平台",
+            "productId": 43,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "50237": {
+            "orgName": "AI服务平台",
+            "productId": 48,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "76162": {
+            "orgName": "AI服务平台",
+            "productId": 56,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "53360": {
+            "orgName": "AI服务平台",
+            "productId": 59,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "63716": {
+            "orgName": "AI服务平台",
+            "productId": 66,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "75932": {
+            "orgName": "AI服务平台",
+            "productId": 69,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "75933": {
+            "orgName": "AI服务平台",
+            "productId": 70,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "75959": {
+            "orgName": "AI服务平台",
+            "productId": 71,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "76163": {
+            "orgName": "AI服务平台",
+            "productId": 77,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "76076": {
+            "orgName": "AI服务平台",
+            "productId": 79,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "75931": {
+            "orgName": "AI服务平台",
+            "productId": 86,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "76159": {
+            "orgName": "AI服务平台",
+            "productId": 87,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "76075": {
+            "orgName": "AI服务平台",
+            "productId": 88,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "75930": {
+            "orgName": "AI服务平台",
+            "productId": 89,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "75925": {
+            "orgName": "AI服务平台",
+            "productId": 90,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "75926": {
+            "orgName": "AI服务平台",
+            "productId": 91,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "75927": {
+            "orgName": "AI服务平台",
+            "productId": 92,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "75928": {
+            "orgName": "AI服务平台",
+            "productId": 93,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "75929": {
+            "orgName": "AI服务平台",
+            "productId": 95,
+            "organizationAuthCode": "0828",
+            "organizationUserId": 6297123
+        },
+        "27854": {
+            "orgName": "陕西黄河河务局",
+            "productId": 5,
+            "organizationAuthCode": "sxhwj",
+            "organizationUserId": 6297300
+        },
+        "27867": {
+            "orgName": "富平县总工会",
+            "productId": 5,
+            "organizationAuthCode": "fpxzgh",
+            "organizationUserId": 6297303
+        }
+    },
+    "requestCount": 13800
 }
